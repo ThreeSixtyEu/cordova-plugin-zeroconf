@@ -25,6 +25,7 @@
             </feature>
         </config-file>
         <source-file src="src/android/net/becvert/cordova/ZeroConf.java" target-dir="src/net/becvert/cordova" />
+        <source-file src="src/android/net/becvert/cordova/ChatConnection.java" target-dir="src/net/becvert/cordova" />
         <framework src="org.jmdns:jmdns:3.5.4" />
     </platform>
 

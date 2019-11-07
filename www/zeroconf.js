@@ -36,6 +36,18 @@ var ZeroConf = {
 
     reInit : function(success, failure) {
         return exec(success, failure, "ZeroConf", "reInit", []);
+    },
+
+    initChat : function(success, failure) {
+        return exec(success, failure, "ZeroConf", "initChat", []);
+    },
+
+    connectChat : function(success, failure) {
+        return exec(success, failure, "ZeroConf", "connectChat", []);
+    },
+
+    sendChatMessage : function(success, failure) {
+        return exec(success, failure, "ZeroConf", "sendChatMessage", [ messageString ]);
     }
 
 };

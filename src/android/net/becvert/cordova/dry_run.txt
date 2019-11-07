@@ -1,0 +1,4697 @@
+ Processing gateway request 6151.
+Refund ammount: 170800
+
+Processing gateway request 6154.
+Refund ammount: 150100
+
+Processing gateway request 6160.
+Refund ammount: 19300
+
+Processing gateway request 6163.
+Refund ammount: 184900
+
+Processing gateway request 6166.
+Transaction was not completed, skipping.
+
+Processing gateway request 6172.
+Refund ammount: 20000
+
+Processing gateway request 6175.
+Refund ammount: 45100
+
+Processing gateway request 6178.
+Insufficient balance, skipping.
+
+Processing gateway request 6184.
+Refund ammount: 11500
+
+Processing gateway request 6187.
+Refund ammount: 300
+
+Processing gateway request 6196.
+Refund ammount: 11500
+
+Processing gateway request 6199.
+Refund ammount: 8900
+
+Processing gateway request 6202.
+Refund ammount: 17200
+
+Processing gateway request 6205.
+Refund ammount: 21500
+
+Processing gateway request 6208.
+Refund ammount: 16300
+
+Processing gateway request 6211.
+Refund ammount: 11200
+
+Processing gateway request 6214.
+Refund ammount: 59000
+
+Processing gateway request 6217.
+Transaction was not completed, skipping.
+
+Processing gateway request 6220.
+Refund ammount: 3800
+
+Processing gateway request 6223.
+Transaction was not completed, skipping.
+
+Processing gateway request 6226.
+Insufficient balance, skipping.
+
+Processing gateway request 6229.
+Transaction was not completed, skipping.
+
+Processing gateway request 6232.
+Refund ammount: 2100
+
+Processing gateway request 6235.
+Refund ammount: 12600
+
+Processing gateway request 6238.
+Refund ammount: 61400
+
+Processing gateway request 6244.
+Refund ammount: 17200
+
+Processing gateway request 6247.
+Refund ammount: 75400
+
+Processing gateway request 6250.
+Refund ammount: 2200
+
+Processing gateway request 6253.
+Insufficient balance, skipping.
+
+Processing gateway request 6256.
+Refund ammount: 36500
+
+Processing gateway request 6259.
+Transaction was not completed, skipping.
+
+Processing gateway request 6268.
+Refund ammount: 6900
+
+Processing gateway request 6271.
+Transaction was not completed, skipping.
+
+Processing gateway request 6274.
+Transaction was not completed, skipping.
+
+Processing gateway request 6277.
+Transaction was not completed, skipping.
+
+Processing gateway request 6283.
+Refund ammount: 247200
+
+Processing gateway request 6286.
+Refund ammount: 205100
+
+Processing gateway request 6289.
+Transaction was not completed, skipping.
+
+Processing gateway request 6292.
+Refund ammount: 26800
+
+Processing gateway request 6295.
+Transaction was not completed, skipping.
+
+Processing gateway request 6298.
+Transaction was not completed, skipping.
+
+Processing gateway request 6301.
+Refund ammount: 41000
+
+Processing gateway request 6307.
+Refund ammount: 1200
+
+Processing gateway request 6310.
+Transaction was not completed, skipping.
+
+Processing gateway request 6313.
+Refund ammount: 200
+
+Processing gateway request 6316.
+Refund ammount: 8000
+
+Processing gateway request 6322.
+Refund ammount: 28000
+
+Processing gateway request 6328.
+Refund ammount: 83400
+
+Processing gateway request 6331.
+Refund ammount: 400
+
+Processing gateway request 6334.
+Refund ammount: 27500
+
+Processing gateway request 6337.
+Refund ammount: 52900
+
+Processing gateway request 6340.
+Refund ammount: 7700
+
+Processing gateway request 6349.
+Refund ammount: 380800
+
+Processing gateway request 6352.
+Refund ammount: 100000
+
+Processing gateway request 6355.
+Refund ammount: 23000
+
+Processing gateway request 6358.
+Refund ammount: 155300
+
+Processing gateway request 6361.
+Refund ammount: 16700
+
+Processing gateway request 6364.
+Refund ammount: 1900
+
+Processing gateway request 6367.
+Insufficient balance, skipping.
+
+Processing gateway request 6370.
+Refund ammount: 7000
+
+Processing gateway request 6373.
+Refund ammount: 15100
+
+Processing gateway request 6376.
+Refund ammount: 23300
+
+Processing gateway request 6379.
+Refund ammount: 400
+
+Processing gateway request 6382.
+Refund ammount: 23200
+
+Processing gateway request 6385.
+Refund ammount: 29400
+
+Processing gateway request 6388.
+Insufficient balance, skipping.
+
+Processing gateway request 6391.
+Refund ammount: 1200
+
+Processing gateway request 6394.
+Refund ammount: 50000
+
+Processing gateway request 6397.
+Refund ammount: 1000
+
+Processing gateway request 6403.
+Refund ammount: 1000
+
+Processing gateway request 6406.
+Refund ammount: 102000
+
+Processing gateway request 6412.
+Refund ammount: 2000
+
+Processing gateway request 6418.
+Refund ammount: 12500
+
+Processing gateway request 6421.
+Refund ammount: 1100
+
+Processing gateway request 6424.
+Insufficient balance, skipping.
+
+Processing gateway request 6448.
+Refund ammount: 7700
+
+Processing gateway request 6454.
+Refund ammount: 9100
+
+Processing gateway request 6457.
+Insufficient balance, skipping.
+
+Processing gateway request 6460.
+Transaction was not completed, skipping.
+
+Processing gateway request 6469.
+Refund ammount: 65700
+
+Processing gateway request 6472.
+Refund ammount: 8800
+
+Processing gateway request 6475.
+Transaction was not completed, skipping.
+
+Processing gateway request 6478.
+Refund ammount: 20000
+
+Processing gateway request 6481.
+Refund ammount: 125000
+
+Processing gateway request 6484.
+Transaction was not completed, skipping.
+
+Processing gateway request 6487.
+Transaction was not completed, skipping.
+
+Processing gateway request 6490.
+Refund ammount: 54900
+
+Processing gateway request 6493.
+Transaction was not completed, skipping.
+
+Processing gateway request 6499.
+Transaction was not completed, skipping.
+
+Processing gateway request 6502.
+Refund ammount: 800
+
+Processing gateway request 6505.
+Refund ammount: 27400
+
+Processing gateway request 6508.
+Refund ammount: 800
+
+Processing gateway request 6511.
+Refund ammount: 10000
+
+Processing gateway request 6514.
+Transaction was not completed, skipping.
+
+Processing gateway request 6517.
+Refund ammount: 97900
+
+Processing gateway request 6520.
+Refund ammount: 53000
+
+Processing gateway request 6523.
+Refund ammount: 57000
+
+Processing gateway request 6526.
+Transaction was not completed, skipping.
+
+Processing gateway request 6529.
+Refund ammount: 184000
+
+Processing gateway request 6532.
+Refund ammount: 118800
+
+Processing gateway request 6538.
+Refund ammount: 100
+
+Processing gateway request 6547.
+Refund ammount: 280000
+
+Processing gateway request 6550.
+Refund ammount: 2400
+
+Processing gateway request 6553.
+Refund ammount: 280000
+
+Processing gateway request 6556.
+Transaction was not completed, skipping.
+
+Processing gateway request 6562.
+Refund ammount: 1000
+
+Processing gateway request 6574.
+Refund ammount: 3000
+
+Processing gateway request 6580.
+Refund ammount: 4800
+
+Processing gateway request 6586.
+Transaction was not completed, skipping.
+
+Processing gateway request 6589.
+Refund ammount: 43200
+
+Processing gateway request 6592.
+Transaction was not completed, skipping.
+
+Processing gateway request 6610.
+Refund ammount: 4300
+
+Processing gateway request 6613.
+Refund ammount: 4200
+
+Processing gateway request 6616.
+Refund ammount: 8400
+
+Processing gateway request 6619.
+Refund ammount: 6300
+
+Processing gateway request 6622.
+Refund ammount: 1200
+
+Processing gateway request 6628.
+Transaction was not completed, skipping.
+
+Processing gateway request 6631.
+Transaction was not completed, skipping.
+
+Processing gateway request 6634.
+Transaction was not completed, skipping.
+
+Processing gateway request 6637.
+Transaction was not completed, skipping.
+
+Processing gateway request 6640.
+Refund ammount: 4100
+
+Processing gateway request 6643.
+Transaction was not completed, skipping.
+
+Processing gateway request 6649.
+Transaction was not completed, skipping.
+
+Processing gateway request 6652.
+Refund ammount: 1900
+
+Processing gateway request 6655.
+Refund ammount: 305000
+
+Processing gateway request 6658.
+Refund ammount: 4300
+
+Processing gateway request 6661.
+Transaction was not completed, skipping.
+
+Processing gateway request 6664.
+Refund ammount: 178200
+
+Processing gateway request 6667.
+Transaction was not completed, skipping.
+
+Processing gateway request 6670.
+Refund ammount: 8800
+
+Processing gateway request 6676.
+Refund ammount: 1000
+
+Processing gateway request 6679.
+Refund ammount: 84800
+
+Processing gateway request 6682.
+Transaction was not completed, skipping.
+
+Processing gateway request 6685.
+Transaction was not completed, skipping.
+
+Processing gateway request 6688.
+Transaction was not completed, skipping.
+
+Processing gateway request 6691.
+Refund ammount: 700
+
+Processing gateway request 6694.
+Refund ammount: 3300
+
+Processing gateway request 6697.
+Transaction was not completed, skipping.
+
+Processing gateway request 6700.
+Transaction was not completed, skipping.
+
+Processing gateway request 6712.
+Refund ammount: 21900
+
+Processing gateway request 6715.
+Transaction was not completed, skipping.
+
+Processing gateway request 6718.
+Refund ammount: 42300
+
+Processing gateway request 6721.
+Refund ammount: 54500
+
+Processing gateway request 6724.
+Refund ammount: 20000
+
+Processing gateway request 6727.
+Transaction was not completed, skipping.
+
+Processing gateway request 6730.
+Refund ammount: 149700
+
+Processing gateway request 6733.
+Refund ammount: 166800
+
+Processing gateway request 6736.
+Transaction was not completed, skipping.
+
+Processing gateway request 6739.
+Refund ammount: 45200
+
+Processing gateway request 6742.
+Refund ammount: 9200
+
+Processing gateway request 6748.
+Transaction was not completed, skipping.
+
+Processing gateway request 6757.
+Transaction was not completed, skipping.
+
+Processing gateway request 6763.
+Refund ammount: 78400
+
+Processing gateway request 6766.
+Transaction was not completed, skipping.
+
+Processing gateway request 6772.
+Refund ammount: 6300
+
+Processing gateway request 6775.
+Refund ammount: 225100
+
+Processing gateway request 6778.
+Refund ammount: 9000
+
+Processing gateway request 6781.
+Transaction was not completed, skipping.
+
+Processing gateway request 6787.
+Refund ammount: 32600
+
+Processing gateway request 6790.
+Refund ammount: 3800
+
+Processing gateway request 6793.
+Refund ammount: 800
+
+Processing gateway request 6796.
+Refund ammount: 55200
+
+Processing gateway request 6799.
+Transaction was not completed, skipping.
+
+Processing gateway request 6802.
+Transaction was not completed, skipping.
+
+Processing gateway request 6805.
+Transaction was not completed, skipping.
+
+Processing gateway request 6808.
+Transaction was not completed, skipping.
+
+Processing gateway request 6811.
+Transaction was not completed, skipping.
+
+Processing gateway request 6814.
+Transaction was not completed, skipping.
+
+Processing gateway request 6817.
+Refund ammount: 89700
+
+Processing gateway request 6820.
+Refund ammount: 83100
+
+Processing gateway request 6826.
+Refund ammount: 119000
+
+Processing gateway request 6829.
+Refund ammount: 10600
+
+Processing gateway request 6832.
+Refund ammount: 42800
+
+Processing gateway request 6835.
+Transaction was not completed, skipping.
+
+Processing gateway request 6838.
+Refund ammount: 24500
+
+Processing gateway request 6841.
+Refund ammount: 16200
+
+Processing gateway request 6847.
+Refund ammount: 27200
+
+Processing gateway request 6850.
+Transaction was not completed, skipping.
+
+Processing gateway request 6856.
+Transaction was not completed, skipping.
+
+Processing gateway request 6859.
+Insufficient balance, skipping.
+
+Processing gateway request 6862.
+Refund ammount: 51600
+
+Processing gateway request 6865.
+Refund ammount: 8100
+
+Processing gateway request 6868.
+Transaction was not completed, skipping.
+
+Processing gateway request 6871.
+Refund ammount: 97400
+
+Processing gateway request 6877.
+Transaction was not completed, skipping.
+
+Processing gateway request 6883.
+Transaction was not completed, skipping.
+
+Processing gateway request 6886.
+Transaction was not completed, skipping.
+
+Processing gateway request 6889.
+Transaction was not completed, skipping.
+
+Processing gateway request 6892.
+Transaction was not completed, skipping.
+
+Processing gateway request 6895.
+Refund ammount: 406000
+
+Processing gateway request 6898.
+Refund ammount: 212000
+
+Processing gateway request 6901.
+Refund ammount: 700
+
+Processing gateway request 6904.
+Refund ammount: 30500
+
+Processing gateway request 6907.
+Refund ammount: 20000
+
+Processing gateway request 6910.
+Refund ammount: 1600
+
+Processing gateway request 6913.
+Refund ammount: 2300
+
+Processing gateway request 6916.
+Refund ammount: 37300
+
+Processing gateway request 6925.
+Refund ammount: 34600
+
+Processing gateway request 6928.
+Transaction was not completed, skipping.
+
+Processing gateway request 6931.
+Insufficient balance, skipping.
+
+Processing gateway request 6934.
+Transaction was not completed, skipping.
+
+Processing gateway request 6937.
+Transaction was not completed, skipping.
+
+Processing gateway request 6943.
+Transaction was not completed, skipping.
+
+Processing gateway request 6946.
+Refund ammount: 17000
+
+Processing gateway request 6955.
+Refund ammount: 200
+
+Processing gateway request 6961.
+Refund ammount: 5200
+
+Processing gateway request 6964.
+Refund ammount: 2900
+
+Processing gateway request 6967.
+Refund ammount: 41400
+
+Processing gateway request 6973.
+Refund ammount: 8400
+
+Processing gateway request 6976.
+Refund ammount: 73500
+
+Processing gateway request 6979.
+Refund ammount: 27600
+
+Processing gateway request 6982.
+Insufficient balance, skipping.
+
+Processing gateway request 6985.
+Refund ammount: 2900
+
+Processing gateway request 6988.
+Transaction was not completed, skipping.
+
+Processing gateway request 6991.
+Refund ammount: 300
+
+Processing gateway request 6994.
+Refund ammount: 145000
+
+Processing gateway request 6997.
+Refund ammount: 145000
+
+Processing gateway request 7000.
+Refund ammount: 5700
+
+Processing gateway request 7003.
+Refund ammount: 600
+
+Processing gateway request 7009.
+Refund ammount: 20000
+
+Processing gateway request 7012.
+Refund ammount: 2200
+
+Processing gateway request 7015.
+Refund ammount: 6800
+
+Processing gateway request 7018.
+Refund ammount: 1800
+
+Processing gateway request 7021.
+Refund ammount: 11100
+
+Processing gateway request 7027.
+Transaction was not completed, skipping.
+
+Processing gateway request 7030.
+Refund ammount: 2300
+
+Processing gateway request 7033.
+Refund ammount: 6600
+
+Processing gateway request 7036.
+Refund ammount: 6200
+
+Processing gateway request 7039.
+Refund ammount: 116800
+
+Processing gateway request 7045.
+Transaction was not completed, skipping.
+
+Processing gateway request 7048.
+Refund ammount: 182900
+
+Processing gateway request 7051.
+Refund ammount: 25000
+
+Processing gateway request 7054.
+Refund ammount: 7200
+
+Processing gateway request 7057.
+Refund ammount: 33700
+
+Processing gateway request 7060.
+Transaction was not completed, skipping.
+
+Processing gateway request 7063.
+Refund ammount: 257000
+
+Processing gateway request 7066.
+Transaction was not completed, skipping.
+
+Processing gateway request 7069.
+Insufficient balance, skipping.
+
+Processing gateway request 7072.
+Refund ammount: 69400
+
+Processing gateway request 7075.
+Refund ammount: 203100
+
+Processing gateway request 7090.
+Refund ammount: 103000
+
+Processing gateway request 7093.
+Refund ammount: 103000
+
+Processing gateway request 7102.
+Transaction was not completed, skipping.
+
+Processing gateway request 7105.
+Transaction was not completed, skipping.
+
+Processing gateway request 7108.
+Refund ammount: 75400
+
+Processing gateway request 7111.
+Refund ammount: 32300
+
+Processing gateway request 7114.
+Transaction was not completed, skipping.
+
+Processing gateway request 7117.
+Refund ammount: 138100
+
+Processing gateway request 7120.
+Refund ammount: 3200
+
+Processing gateway request 7123.
+Refund ammount: 7600
+
+Processing gateway request 7126.
+Refund ammount: 44800
+
+Processing gateway request 7129.
+Insufficient balance, skipping.
+
+Processing gateway request 7132.
+Refund ammount: 20700
+
+Processing gateway request 7135.
+Refund ammount: 6900
+
+Processing gateway request 7138.
+Refund ammount: 32000
+
+Processing gateway request 7141.
+Refund ammount: 1900
+
+Processing gateway request 7144.
+Transaction was not completed, skipping.
+
+Processing gateway request 7147.
+Refund ammount: 83500
+
+Processing gateway request 7150.
+Refund ammount: 24400
+
+Processing gateway request 7153.
+Insufficient balance, skipping.
+
+Processing gateway request 7156.
+Refund ammount: 15500
+
+Processing gateway request 7159.
+Refund ammount: 1700
+
+Processing gateway request 7162.
+Transaction was not completed, skipping.
+
+Processing gateway request 7168.
+Insufficient balance, skipping.
+
+Processing gateway request 7174.
+Refund ammount: 263800
+
+Processing gateway request 7177.
+Refund ammount: 217100
+
+Processing gateway request 7183.
+Refund ammount: 154200
+
+Processing gateway request 7192.
+Refund ammount: 2600
+
+Processing gateway request 7195.
+Refund ammount: 217600
+
+Processing gateway request 7201.
+Insufficient balance, skipping.
+
+Processing gateway request 7210.
+Refund ammount: 7600
+
+Processing gateway request 7213.
+Insufficient balance, skipping.
+
+Processing gateway request 7216.
+Refund ammount: 3600
+
+Processing gateway request 7219.
+Refund ammount: 2100
+
+Processing gateway request 7222.
+Refund ammount: 6200
+
+Processing gateway request 7225.
+Refund ammount: 22100
+
+Processing gateway request 7231.
+Transaction was not completed, skipping.
+
+Processing gateway request 7237.
+Refund ammount: 50800
+
+Processing gateway request 7240.
+Transaction was not completed, skipping.
+
+Processing gateway request 7243.
+Transaction was not completed, skipping.
+
+Processing gateway request 7246.
+Transaction was not completed, skipping.
+
+Processing gateway request 7249.
+Refund ammount: 66000
+
+Processing gateway request 7255.
+Transaction was not completed, skipping.
+
+Processing gateway request 7258.
+Refund ammount: 29000
+
+Processing gateway request 7261.
+Insufficient balance, skipping.
+
+Processing gateway request 7264.
+Transaction was not completed, skipping.
+
+Processing gateway request 7270.
+Refund ammount: 4300
+
+Processing gateway request 7276.
+Refund ammount: 6800
+
+Processing gateway request 7279.
+Refund ammount: 6800
+
+Processing gateway request 7282.
+Refund ammount: 117400
+
+Processing gateway request 7285.
+Refund ammount: 700
+
+Processing gateway request 7288.
+Refund ammount: 77200
+
+Processing gateway request 7291.
+Insufficient balance, skipping.
+
+Processing gateway request 7294.
+Refund ammount: 3700
+
+Processing gateway request 7297.
+Refund ammount: 11500
+
+Processing gateway request 7300.
+Refund ammount: 25000
+
+Processing gateway request 7303.
+Refund ammount: 27700
+
+Processing gateway request 7306.
+Transaction was not completed, skipping.
+
+Processing gateway request 7312.
+Refund ammount: 300
+
+Processing gateway request 7318.
+Transaction was not completed, skipping.
+
+Processing gateway request 7321.
+Refund ammount: 96300
+
+Processing gateway request 7324.
+Refund ammount: 10000
+
+Processing gateway request 7327.
+Refund ammount: 2000
+
+Processing gateway request 7330.
+Refund ammount: 1400
+
+Processing gateway request 7333.
+Refund ammount: 60900
+
+Processing gateway request 7336.
+Refund ammount: 1700
+
+Processing gateway request 7342.
+Transaction was not completed, skipping.
+
+Processing gateway request 7345.
+Refund ammount: 120900
+
+Processing gateway request 7348.
+Refund ammount: 44000
+
+Processing gateway request 7351.
+Refund ammount: 30400
+
+Processing gateway request 7354.
+Transaction was not completed, skipping.
+
+Processing gateway request 7357.
+Refund ammount: 14300
+
+Processing gateway request 7360.
+Transaction was not completed, skipping.
+
+Processing gateway request 7366.
+Refund ammount: 17600
+
+Processing gateway request 7369.
+Refund ammount: 416900
+
+Processing gateway request 7372.
+Transaction was not completed, skipping.
+
+Processing gateway request 7375.
+Transaction was not completed, skipping.
+
+Processing gateway request 7378.
+Refund ammount: 60800
+
+Processing gateway request 7381.
+Refund ammount: 14100
+
+Processing gateway request 7384.
+Refund ammount: 40400
+
+Processing gateway request 7387.
+Refund ammount: 3400
+
+Processing gateway request 7390.
+Refund ammount: 80000
+
+Processing gateway request 7396.
+Refund ammount: 500
+
+Processing gateway request 7399.
+Transaction was not completed, skipping.
+
+Processing gateway request 7402.
+Refund ammount: 300
+
+Processing gateway request 7408.
+Transaction was not completed, skipping.
+
+Processing gateway request 7411.
+Transaction was not completed, skipping.
+
+Processing gateway request 7414.
+Refund ammount: 1300
+
+Processing gateway request 7417.
+Refund ammount: 130000
+
+Processing gateway request 7420.
+Transaction was not completed, skipping.
+
+Processing gateway request 7423.
+Transaction was not completed, skipping.
+
+Processing gateway request 7426.
+Transaction was not completed, skipping.
+
+Processing gateway request 7432.
+Transaction was not completed, skipping.
+
+Processing gateway request 7435.
+Refund ammount: 6800
+
+Processing gateway request 7441.
+Refund ammount: 900
+
+Processing gateway request 7444.
+Insufficient balance, skipping.
+
+Processing gateway request 7447.
+Refund ammount: 4200
+
+Processing gateway request 7450.
+Refund ammount: 11200
+
+Processing gateway request 7459.
+Refund ammount: 3100
+
+Processing gateway request 7462.
+Refund ammount: 152500
+
+Processing gateway request 7465.
+Refund ammount: 16600
+
+Processing gateway request 7468.
+Refund ammount: 90500
+
+Processing gateway request 7471.
+Refund ammount: 34200
+
+Processing gateway request 7480.
+Refund ammount: 4200
+
+Processing gateway request 7483.
+Refund ammount: 3200
+
+Processing gateway request 7486.
+Refund ammount: 57700
+
+Processing gateway request 7489.
+Refund ammount: 400
+
+Processing gateway request 7495.
+Refund ammount: 185800
+
+Processing gateway request 7498.
+Transaction was not completed, skipping.
+
+Processing gateway request 7501.
+Transaction was not completed, skipping.
+
+Processing gateway request 7504.
+Refund ammount: 2500
+
+Processing gateway request 7507.
+Transaction was not completed, skipping.
+
+Processing gateway request 7510.
+Transaction was not completed, skipping.
+
+Processing gateway request 7513.
+Transaction was not completed, skipping.
+
+Processing gateway request 7519.
+Transaction was not completed, skipping.
+
+Processing gateway request 7522.
+Transaction was not completed, skipping.
+
+Processing gateway request 7525.
+Refund ammount: 4600
+
+Processing gateway request 7528.
+Refund ammount: 7200
+
+Processing gateway request 7531.
+Refund ammount: 86500
+
+Processing gateway request 7534.
+Refund ammount: 75600
+
+Processing gateway request 7537.
+Insufficient balance, skipping.
+
+Processing gateway request 7540.
+Refund ammount: 800
+
+Processing gateway request 7543.
+Transaction was not completed, skipping.
+
+Processing gateway request 7546.
+Insufficient balance, skipping.
+
+Processing gateway request 7552.
+Transaction was not completed, skipping.
+
+Processing gateway request 7558.
+Refund ammount: 8100
+
+Processing gateway request 7564.
+Refund ammount: 800
+
+Processing gateway request 7567.
+Transaction was not completed, skipping.
+
+Processing gateway request 7570.
+Refund ammount: 8100
+
+Processing gateway request 7573.
+Refund ammount: 20200
+
+Processing gateway request 7576.
+Refund ammount: 57000
+
+Processing gateway request 7582.
+Insufficient balance, skipping.
+
+Processing gateway request 7585.
+Refund ammount: 119900
+
+Processing gateway request 7594.
+Refund ammount: 8200
+
+Processing gateway request 7597.
+Refund ammount: 62500
+
+Processing gateway request 7600.
+Refund ammount: 140800
+
+Processing gateway request 7603.
+Refund ammount: 118800
+
+Processing gateway request 7606.
+Refund ammount: 140800
+
+Processing gateway request 7609.
+Refund ammount: 45900
+
+Processing gateway request 7615.
+Refund ammount: 58000
+
+Processing gateway request 7618.
+Transaction was not completed, skipping.
+
+Processing gateway request 7621.
+Refund ammount: 900
+
+Processing gateway request 7636.
+Transaction was not completed, skipping.
+
+Processing gateway request 7639.
+Transaction was not completed, skipping.
+
+Processing gateway request 7642.
+Refund ammount: 175400
+
+Processing gateway request 7645.
+Transaction was not completed, skipping.
+
+Processing gateway request 7648.
+Refund ammount: 200
+
+Processing gateway request 7651.
+Refund ammount: 26200
+
+Processing gateway request 7654.
+Transaction was not completed, skipping.
+
+Processing gateway request 7657.
+Transaction was not completed, skipping.
+
+Processing gateway request 7660.
+Transaction was not completed, skipping.
+
+Processing gateway request 7666.
+Transaction was not completed, skipping.
+
+Processing gateway request 7669.
+Insufficient balance, skipping.
+
+Processing gateway request 7672.
+Transaction was not completed, skipping.
+
+Processing gateway request 7675.
+Refund ammount: 17800
+
+Processing gateway request 7678.
+Refund ammount: 62900
+
+Processing gateway request 7681.
+Transaction was not completed, skipping.
+
+Processing gateway request 7684.
+Refund ammount: 50100
+
+Processing gateway request 7687.
+Refund ammount: 62000
+
+Processing gateway request 7690.
+Transaction was not completed, skipping.
+
+Processing gateway request 7693.
+Insufficient balance, skipping.
+
+Processing gateway request 7696.
+Refund ammount: 500
+
+Processing gateway request 7699.
+Insufficient balance, skipping.
+
+Processing gateway request 7702.
+Refund ammount: 12400
+
+Processing gateway request 7705.
+Refund ammount: 40300
+
+Processing gateway request 7708.
+Refund ammount: 1200
+
+Processing gateway request 7711.
+Transaction was not completed, skipping.
+
+Processing gateway request 7714.
+Refund ammount: 107300
+
+Processing gateway request 7717.
+Transaction was not completed, skipping.
+
+Processing gateway request 7720.
+Refund ammount: 1200
+
+Processing gateway request 7723.
+Refund ammount: 93500
+
+Processing gateway request 7726.
+Refund ammount: 128300
+
+Processing gateway request 7732.
+Refund ammount: 13800
+
+Processing gateway request 7738.
+Refund ammount: 1500
+
+Processing gateway request 7741.
+Refund ammount: 111600
+
+Processing gateway request 7744.
+Refund ammount: 149700
+
+Processing gateway request 7747.
+Refund ammount: 105500
+
+Processing gateway request 7750.
+Refund ammount: 100900
+
+Processing gateway request 7753.
+Refund ammount: 143700
+
+Processing gateway request 7756.
+Refund ammount: 11700
+
+Processing gateway request 7759.
+Refund ammount: 122300
+
+Processing gateway request 7765.
+Refund ammount: 80300
+
+Processing gateway request 7768.
+Transaction was not completed, skipping.
+
+Processing gateway request 7771.
+Transaction was not completed, skipping.
+
+Processing gateway request 7774.
+Transaction was not completed, skipping.
+
+Processing gateway request 7777.
+Transaction was not completed, skipping.
+
+Processing gateway request 7780.
+Refund ammount: 152700
+
+Processing gateway request 7783.
+Refund ammount: 11800
+
+Processing gateway request 7786.
+Transaction was not completed, skipping.
+
+Processing gateway request 7789.
+Transaction was not completed, skipping.
+
+Processing gateway request 7792.
+Refund ammount: 12400
+
+Processing gateway request 7795.
+Insufficient balance, skipping.
+
+Processing gateway request 7798.
+Refund ammount: 500
+
+Processing gateway request 7804.
+Refund ammount: 17300
+
+Processing gateway request 7807.
+Refund ammount: 17200
+
+Processing gateway request 7810.
+Refund ammount: 34900
+
+Processing gateway request 7819.
+Transaction was not completed, skipping.
+
+Processing gateway request 7822.
+Refund ammount: 26700
+
+Processing gateway request 7828.
+Refund ammount: 180300
+
+Processing gateway request 7831.
+Refund ammount: 149400
+
+Processing gateway request 7837.
+Refund ammount: 2300
+
+Processing gateway request 7840.
+Refund ammount: 27300
+
+Processing gateway request 7843.
+Insufficient balance, skipping.
+
+Processing gateway request 7846.
+Refund ammount: 16700
+
+Processing gateway request 7855.
+Refund ammount: 10900
+
+Processing gateway request 7858.
+Refund ammount: 100
+
+Processing gateway request 7861.
+Transaction was not completed, skipping.
+
+Processing gateway request 7864.
+Refund ammount: 300
+
+Processing gateway request 7867.
+Refund ammount: 9200
+
+Processing gateway request 7870.
+Transaction was not completed, skipping.
+
+Processing gateway request 7873.
+Refund ammount: 4000
+
+Processing gateway request 7879.
+Refund ammount: 1300
+
+Processing gateway request 7882.
+Transaction was not completed, skipping.
+
+Processing gateway request 7885.
+Transaction was not completed, skipping.
+
+Processing gateway request 7888.
+Refund ammount: 8600
+
+Processing gateway request 7891.
+Refund ammount: 62100
+
+Processing gateway request 7894.
+Transaction was not completed, skipping.
+
+Processing gateway request 7897.
+Refund ammount: 600
+
+Processing gateway request 7903.
+Transaction was not completed, skipping.
+
+Processing gateway request 7906.
+Transaction was not completed, skipping.
+
+Processing gateway request 7909.
+Insufficient balance, skipping.
+
+Processing gateway request 7912.
+Refund ammount: 3300
+
+Processing gateway request 7915.
+Refund ammount: 302900
+
+Processing gateway request 7918.
+Refund ammount: 800
+
+Processing gateway request 7921.
+Refund ammount: 3900
+
+Processing gateway request 7924.
+Refund ammount: 1000
+
+Processing gateway request 7927.
+Refund ammount: 3900
+
+Processing gateway request 7930.
+Refund ammount: 3500
+
+Processing gateway request 7933.
+Refund ammount: 36800
+
+Processing gateway request 7936.
+Refund ammount: 37500
+
+Processing gateway request 7939.
+Transaction was not completed, skipping.
+
+Processing gateway request 7945.
+Refund ammount: 26100
+
+Processing gateway request 7948.
+Refund ammount: 86600
+
+Processing gateway request 7954.
+Transaction was not completed, skipping.
+
+Processing gateway request 7957.
+Transaction was not completed, skipping.
+
+Processing gateway request 7960.
+Refund ammount: 33100
+
+Processing gateway request 7969.
+Refund ammount: 28000
+
+Processing gateway request 7975.
+Refund ammount: 16900
+
+Processing gateway request 7981.
+Insufficient balance, skipping.
+
+Processing gateway request 7984.
+Refund ammount: 5200
+
+Processing gateway request 7987.
+Refund ammount: 77300
+
+Processing gateway request 7990.
+Refund ammount: 10300
+
+Processing gateway request 7993.
+Refund ammount: 82000
+
+Processing gateway request 8002.
+Refund ammount: 1100
+
+Processing gateway request 8005.
+Refund ammount: 139000
+
+Processing gateway request 8008.
+Refund ammount: 9000
+
+Processing gateway request 8011.
+Refund ammount: 9800
+
+Processing gateway request 8014.
+Transaction was not completed, skipping.
+
+Processing gateway request 8020.
+Insufficient balance, skipping.
+
+Processing gateway request 8023.
+Refund ammount: 1300
+
+Processing gateway request 8026.
+Insufficient balance, skipping.
+
+Processing gateway request 8032.
+Refund ammount: 17900
+
+Processing gateway request 8035.
+Refund ammount: 200
+
+Processing gateway request 8038.
+Refund ammount: 5900
+
+Processing gateway request 8041.
+Refund ammount: 1500
+
+Processing gateway request 8050.
+Refund ammount: 32600
+
+Processing gateway request 8053.
+Refund ammount: 3400
+
+Processing gateway request 8056.
+Refund ammount: 107500
+
+Processing gateway request 8062.
+Refund ammount: 3300
+
+Processing gateway request 8065.
+Refund ammount: 33300
+
+Processing gateway request 8068.
+Refund ammount: 7000
+
+Processing gateway request 8074.
+Refund ammount: 1600
+
+Processing gateway request 8077.
+Refund ammount: 35800
+
+Processing gateway request 8080.
+Refund ammount: 4400
+
+Processing gateway request 8083.
+Transaction was not completed, skipping.
+
+Processing gateway request 8086.
+Refund ammount: 178900
+
+Processing gateway request 8089.
+Transaction was not completed, skipping.
+
+Processing gateway request 8095.
+Refund ammount: 1600
+
+Processing gateway request 8098.
+Transaction was not completed, skipping.
+
+Processing gateway request 8104.
+Refund ammount: 3800
+
+Processing gateway request 8110.
+Refund ammount: 2600
+
+Processing gateway request 8116.
+Refund ammount: 29400
+
+Processing gateway request 8119.
+Refund ammount: 1800
+
+Processing gateway request 8131.
+Refund ammount: 19500
+
+Processing gateway request 8134.
+Transaction was not completed, skipping.
+
+Processing gateway request 8137.
+Transaction was not completed, skipping.
+
+Processing gateway request 8140.
+Transaction was not completed, skipping.
+
+Processing gateway request 8143.
+Refund ammount: 1400
+
+Processing gateway request 8146.
+Transaction was not completed, skipping.
+
+Processing gateway request 8152.
+Transaction was not completed, skipping.
+
+Processing gateway request 8155.
+Refund ammount: 20000
+
+Processing gateway request 8158.
+Transaction was not completed, skipping.
+
+Processing gateway request 8161.
+Refund ammount: 205900
+
+Processing gateway request 8164.
+Refund ammount: 19400
+
+Processing gateway request 8170.
+Transaction was not completed, skipping.
+
+Processing gateway request 8173.
+Refund ammount: 3500
+
+Processing gateway request 8176.
+Transaction was not completed, skipping.
+
+Processing gateway request 8179.
+Refund ammount: 10900
+
+Processing gateway request 8182.
+Transaction was not completed, skipping.
+
+Processing gateway request 8185.
+Transaction was not completed, skipping.
+
+Processing gateway request 8188.
+Refund ammount: 1200
+
+Processing gateway request 8191.
+Transaction was not completed, skipping.
+
+Processing gateway request 8194.
+Refund ammount: 900
+
+Processing gateway request 8197.
+Refund ammount: 8600
+
+Processing gateway request 8200.
+Refund ammount: 3500
+
+Processing gateway request 8206.
+Refund ammount: 1000
+
+Processing gateway request 8209.
+Refund ammount: 8400
+
+Processing gateway request 8212.
+Refund ammount: 145200
+
+Processing gateway request 8215.
+Refund ammount: 16700
+
+Processing gateway request 8224.
+Transaction was not completed, skipping.
+
+Processing gateway request 8227.
+Refund ammount: 1200
+
+Processing gateway request 8230.
+Refund ammount: 2700
+
+Processing gateway request 8233.
+Refund ammount: 800
+
+Processing gateway request 8236.
+Transaction was not completed, skipping.
+
+Processing gateway request 8239.
+Transaction was not completed, skipping.
+
+Processing gateway request 8245.
+Refund ammount: 146600
+
+Processing gateway request 8254.
+Refund ammount: 21100
+
+Processing gateway request 8257.
+Refund ammount: 10800
+
+Processing gateway request 8260.
+Refund ammount: 50100
+
+Processing gateway request 8263.
+Refund ammount: 34700
+
+Processing gateway request 8266.
+Refund ammount: 59400
+
+Processing gateway request 8269.
+Refund ammount: 100
+
+Processing gateway request 8272.
+Refund ammount: 4100
+
+Processing gateway request 8278.
+Refund ammount: 3700
+
+Processing gateway request 8284.
+Insufficient balance, skipping.
+
+Processing gateway request 8290.
+Refund ammount: 28200
+
+Processing gateway request 8293.
+Refund ammount: 8000
+
+Processing gateway request 8296.
+Refund ammount: 5300
+
+Processing gateway request 8299.
+Refund ammount: 47500
+
+Processing gateway request 8305.
+Refund ammount: 37500
+
+Processing gateway request 8314.
+Refund ammount: 2300
+
+Processing gateway request 8317.
+Refund ammount: 20000
+
+Processing gateway request 8320.
+Refund ammount: 100
+
+Processing gateway request 8323.
+Refund ammount: 81100
+
+Processing gateway request 8359.
+Refund ammount: 14000
+
+Processing gateway request 8362.
+Refund ammount: 1700
+
+Processing gateway request 8365.
+Refund ammount: 47000
+
+Processing gateway request 8368.
+Refund ammount: 65800
+
+Processing gateway request 8371.
+Refund ammount: 2400
+
+Processing gateway request 8374.
+Refund ammount: 1900
+
+Processing gateway request 8377.
+Insufficient balance, skipping.
+
+Processing gateway request 8389.
+Refund ammount: 3900
+
+Processing gateway request 8392.
+Refund ammount: 34000
+
+Processing gateway request 8395.
+Refund ammount: 300
+
+Processing gateway request 8398.
+Refund ammount: 1000
+
+Processing gateway request 8401.
+Refund ammount: 700
+
+Processing gateway request 8404.
+Refund ammount: 2800
+
+Processing gateway request 8407.
+Refund ammount: 3100
+
+Processing gateway request 8410.
+Refund ammount: 24600
+
+Processing gateway request 8413.
+Refund ammount: 9000
+
+Processing gateway request 8419.
+Refund ammount: 1900
+
+Processing gateway request 8422.
+Refund ammount: 12700
+
+Processing gateway request 8428.
+Transaction was not completed, skipping.
+
+Processing gateway request 8434.
+Refund ammount: 400
+
+Processing gateway request 8440.
+Transaction was not completed, skipping.
+
+Processing gateway request 8443.
+Transaction was not completed, skipping.
+
+Processing gateway request 8446.
+Refund ammount: 8200
+
+Processing gateway request 8449.
+Refund ammount: 27500
+
+Processing gateway request 8455.
+Transaction was not completed, skipping.
+
+Processing gateway request 8458.
+Transaction was not completed, skipping.
+
+Processing gateway request 8461.
+Refund ammount: 27500
+
+Processing gateway request 8467.
+Refund ammount: 3600
+
+Processing gateway request 8473.
+Refund ammount: 2300
+
+Processing gateway request 8476.
+Refund ammount: 68000
+
+Processing gateway request 8479.
+Refund ammount: 32000
+
+Processing gateway request 8482.
+Refund ammount: 100
+
+Processing gateway request 8485.
+Refund ammount: 27500
+
+Processing gateway request 8488.
+Refund ammount: 39400
+
+Processing gateway request 8491.
+Transaction was not completed, skipping.
+
+Processing gateway request 8494.
+Refund ammount: 75000
+
+Processing gateway request 8497.
+Transaction was not completed, skipping.
+
+Processing gateway request 8500.
+Transaction was not completed, skipping.
+
+Processing gateway request 8503.
+Refund ammount: 2100
+
+Processing gateway request 8506.
+Refund ammount: 38300
+
+Processing gateway request 8509.
+Refund ammount: 95300
+
+Processing gateway request 8515.
+Transaction was not completed, skipping.
+
+Processing gateway request 8518.
+Transaction was not completed, skipping.
+
+Processing gateway request 8521.
+Transaction was not completed, skipping.
+
+Processing gateway request 8524.
+Transaction was not completed, skipping.
+
+Processing gateway request 8527.
+Transaction was not completed, skipping.
+
+Processing gateway request 8530.
+Transaction was not completed, skipping.
+
+Processing gateway request 8539.
+Refund ammount: 1600
+
+Processing gateway request 8542.
+Refund ammount: 4400
+
+Processing gateway request 8545.
+Refund ammount: 7200
+
+Processing gateway request 8548.
+Transaction was not completed, skipping.
+
+Processing gateway request 8551.
+Refund ammount: 82000
+
+Processing gateway request 8554.
+Refund ammount: 14100
+
+Processing gateway request 8557.
+Refund ammount: 1500
+
+Processing gateway request 8560.
+Refund ammount: 43700
+
+Processing gateway request 8563.
+Refund ammount: 500
+
+Processing gateway request 8566.
+Refund ammount: 67700
+
+Processing gateway request 8569.
+Transaction was not completed, skipping.
+
+Processing gateway request 8575.
+Refund ammount: 149900
+
+Processing gateway request 8578.
+Refund ammount: 2500
+
+Processing gateway request 8581.
+Refund ammount: 5300
+
+Processing gateway request 8587.
+Refund ammount: 1200
+
+Processing gateway request 8590.
+Refund ammount: 9000
+
+Processing gateway request 8593.
+Refund ammount: 4600
+
+Processing gateway request 8596.
+Refund ammount: 15900
+
+Processing gateway request 8599.
+Refund ammount: 4000
+
+Processing gateway request 8602.
+Refund ammount: 2300
+
+Processing gateway request 8605.
+Refund ammount: 1000
+
+Processing gateway request 8608.
+Transaction was not completed, skipping.
+
+Processing gateway request 8611.
+Refund ammount: 10200
+
+Processing gateway request 8614.
+Refund ammount: 300
+
+Processing gateway request 8617.
+Transaction was not completed, skipping.
+
+Processing gateway request 8620.
+Transaction was not completed, skipping.
+
+Processing gateway request 8626.
+Refund ammount: 271000
+
+Processing gateway request 8629.
+Refund ammount: 700
+
+Processing gateway request 8632.
+Insufficient balance, skipping.
+
+Processing gateway request 8635.
+Refund ammount: 44900
+
+Processing gateway request 8638.
+Refund ammount: 200
+
+Processing gateway request 8644.
+Refund ammount: 3500
+
+Processing gateway request 8647.
+Transaction was not completed, skipping.
+
+Processing gateway request 8650.
+Transaction was not completed, skipping.
+
+Processing gateway request 8653.
+Refund ammount: 1800
+
+Processing gateway request 8656.
+Refund ammount: 11200
+
+Processing gateway request 8659.
+Transaction was not completed, skipping.
+
+Processing gateway request 8662.
+Refund ammount: 14400
+
+Processing gateway request 8668.
+Refund ammount: 100
+
+Processing gateway request 8671.
+Refund ammount: 15500
+
+Processing gateway request 8674.
+Refund ammount: 3600
+
+Processing gateway request 8677.
+Refund ammount: 200
+
+Processing gateway request 8680.
+Transaction was not completed, skipping.
+
+Processing gateway request 8683.
+Refund ammount: 2900
+
+Processing gateway request 8686.
+Refund ammount: 1000
+
+Processing gateway request 8695.
+Refund ammount: 2400
+
+Processing gateway request 8698.
+Refund ammount: 13000
+
+Processing gateway request 8701.
+Refund ammount: 2000
+
+Processing gateway request 8704.
+Refund ammount: 100
+
+Processing gateway request 8710.
+Refund ammount: 700
+
+Processing gateway request 8716.
+Transaction was not completed, skipping.
+
+Processing gateway request 8722.
+Refund ammount: 6200
+
+Processing gateway request 8725.
+Refund ammount: 3100
+
+Processing gateway request 8728.
+Refund ammount: 300
+
+Processing gateway request 8731.
+Refund ammount: 1800
+
+Processing gateway request 8734.
+Refund ammount: 1600
+
+Processing gateway request 8737.
+Transaction was not completed, skipping.
+
+Processing gateway request 8743.
+Refund ammount: 3700
+
+Processing gateway request 8746.
+Refund ammount: 27500
+
+Processing gateway request 8749.
+Transaction was not completed, skipping.
+
+Processing gateway request 8752.
+Refund ammount: 4800
+
+Processing gateway request 8761.
+Refund ammount: 1900
+
+Processing gateway request 8764.
+Refund ammount: 3800
+
+Processing gateway request 8767.
+Refund ammount: 200
+
+Processing gateway request 8770.
+Refund ammount: 150000
+
+Processing gateway request 8773.
+Refund ammount: 2500
+
+Processing gateway request 8776.
+Transaction was not completed, skipping.
+
+Processing gateway request 8779.
+Refund ammount: 2300
+
+Processing gateway request 8782.
+Refund ammount: 5500
+
+Processing gateway request 8785.
+Refund ammount: 2200
+
+Processing gateway request 8788.
+Transaction was not completed, skipping.
+
+Processing gateway request 8794.
+Refund ammount: 7300
+
+Processing gateway request 8797.
+Transaction was not completed, skipping.
+
+Processing gateway request 8800.
+Insufficient balance, skipping.
+
+Processing gateway request 8803.
+Transaction was not completed, skipping.
+
+Processing gateway request 8806.
+Refund ammount: 11400
+
+Processing gateway request 8812.
+Refund ammount: 21300
+
+Processing gateway request 8815.
+Refund ammount: 600
+
+Processing gateway request 8818.
+Refund ammount: 600
+
+Processing gateway request 8824.
+Refund ammount: 39800
+
+Processing gateway request 8827.
+Refund ammount: 50000
+
+Processing gateway request 8830.
+Refund ammount: 2600
+
+Processing gateway request 8833.
+Refund ammount: 5600
+
+Processing gateway request 8836.
+Refund ammount: 3400
+
+Processing gateway request 8839.
+Refund ammount: 11400
+
+Processing gateway request 8842.
+Refund ammount: 63500
+
+Processing gateway request 8848.
+Transaction was not completed, skipping.
+
+Processing gateway request 8851.
+Refund ammount: 900
+
+Processing gateway request 8863.
+Transaction was not completed, skipping.
+
+Processing gateway request 8866.
+Refund ammount: 9900
+
+Processing gateway request 8869.
+Transaction was not completed, skipping.
+
+Processing gateway request 8872.
+Transaction was not completed, skipping.
+
+Processing gateway request 8875.
+Transaction was not completed, skipping.
+
+Processing gateway request 8881.
+Insufficient balance, skipping.
+
+Processing gateway request 8884.
+Refund ammount: 7300
+
+Processing gateway request 8890.
+Refund ammount: 78300
+
+Processing gateway request 8896.
+Refund ammount: 9400
+
+Processing gateway request 8902.
+Refund ammount: 2800
+
+Processing gateway request 8905.
+Transaction was not completed, skipping.
+
+Processing gateway request 8908.
+Refund ammount: 3300
+
+Processing gateway request 8914.
+Refund ammount: 2400
+
+Processing gateway request 8917.
+Refund ammount: 9400
+
+Processing gateway request 8926.
+Refund ammount: 32700
+
+Processing gateway request 8932.
+Refund ammount: 26500
+
+Processing gateway request 8935.
+Refund ammount: 3500
+
+Processing gateway request 8938.
+Transaction was not completed, skipping.
+
+Processing gateway request 8941.
+Refund ammount: 20000
+
+Processing gateway request 8944.
+Refund ammount: 800
+
+Processing gateway request 8947.
+Refund ammount: 15100
+
+Processing gateway request 8950.
+Transaction was not completed, skipping.
+
+Processing gateway request 8953.
+Refund ammount: 3500
+
+Processing gateway request 8956.
+Refund ammount: 34900
+
+Processing gateway request 8962.
+Refund ammount: 1900
+
+Processing gateway request 8965.
+Refund ammount: 9800
+
+Processing gateway request 8968.
+Refund ammount: 4200
+
+Processing gateway request 8974.
+Transaction was not completed, skipping.
+
+Processing gateway request 8977.
+Transaction was not completed, skipping.
+
+Processing gateway request 8980.
+Refund ammount: 2600
+
+Processing gateway request 8986.
+Refund ammount: 1800
+
+Processing gateway request 8989.
+Refund ammount: 112700
+
+Processing gateway request 8992.
+Refund ammount: 3400
+
+Processing gateway request 8995.
+Refund ammount: 2000
+
+Processing gateway request 8998.
+Transaction was not completed, skipping.
+
+Processing gateway request 9001.
+Refund ammount: 4300
+
+Processing gateway request 9004.
+Refund ammount: 1800
+
+Processing gateway request 9013.
+Refund ammount: 9900
+
+Processing gateway request 9016.
+Refund ammount: 25200
+
+Processing gateway request 9019.
+Refund ammount: 51900
+
+Processing gateway request 9025.
+Refund ammount: 6000
+
+Processing gateway request 9028.
+Refund ammount: 3800
+
+Processing gateway request 9031.
+Refund ammount: 19800
+
+Processing gateway request 9034.
+Transaction was not completed, skipping.
+
+Processing gateway request 9037.
+Refund ammount: 80300
+
+Processing gateway request 9040.
+Refund ammount: 2200
+
+Processing gateway request 9043.
+Refund ammount: 18100
+
+Processing gateway request 9046.
+Refund ammount: 15000
+
+Processing gateway request 9049.
+Refund ammount: 4200
+
+Processing gateway request 9052.
+Transaction was not completed, skipping.
+
+Processing gateway request 9055.
+Refund ammount: 3000
+
+Processing gateway request 9058.
+Transaction was not completed, skipping.
+
+Processing gateway request 9061.
+Refund ammount: 1400
+
+Processing gateway request 9064.
+Refund ammount: 4000
+
+Processing gateway request 9067.
+Refund ammount: 7200
+
+Processing gateway request 9070.
+Transaction was not completed, skipping.
+
+Processing gateway request 9073.
+Refund ammount: 115600
+
+Processing gateway request 9076.
+Refund ammount: 50200
+
+Processing gateway request 9082.
+Refund ammount: 3900
+
+Processing gateway request 9085.
+Refund ammount: 134200
+
+Processing gateway request 9088.
+Refund ammount: 4300
+
+Processing gateway request 9091.
+Refund ammount: 2900
+
+Processing gateway request 9094.
+Refund ammount: 50200
+
+Processing gateway request 9097.
+Refund ammount: 2400
+
+Processing gateway request 9100.
+Refund ammount: 35700
+
+Processing gateway request 9103.
+Refund ammount: 339000
+
+Processing gateway request 9106.
+Refund ammount: 278100
+
+Processing gateway request 9109.
+Refund ammount: 3100
+
+Processing gateway request 9115.
+Transaction was not completed, skipping.
+
+Processing gateway request 9118.
+Refund ammount: 46000
+
+Processing gateway request 9121.
+Refund ammount: 700
+
+Processing gateway request 9124.
+Refund ammount: 4500
+
+Processing gateway request 9127.
+Refund ammount: 21000
+
+Processing gateway request 9130.
+Refund ammount: 109200
+
+Processing gateway request 9133.
+Refund ammount: 109200
+
+Processing gateway request 9139.
+Insufficient balance, skipping.
+
+Processing gateway request 9142.
+Transaction was not completed, skipping.
+
+Processing gateway request 9145.
+Transaction was not completed, skipping.
+
+Processing gateway request 9151.
+Transaction was not completed, skipping.
+
+Processing gateway request 9154.
+Refund ammount: 4400
+
+Processing gateway request 9157.
+Transaction was not completed, skipping.
+
+Processing gateway request 9172.
+Refund ammount: 51200
+
+Processing gateway request 9178.
+Refund ammount: 3600
+
+Processing gateway request 9181.
+Refund ammount: 19800
+
+Processing gateway request 9187.
+Transaction was not completed, skipping.
+
+Processing gateway request 9193.
+Refund ammount: 31700
+
+Processing gateway request 9196.
+Refund ammount: 45000
+
+Processing gateway request 9199.
+Refund ammount: 2100
+
+Processing gateway request 9202.
+Refund ammount: 1300
+
+Processing gateway request 9205.
+Transaction was not completed, skipping.
+
+Processing gateway request 9208.
+Refund ammount: 23100
+
+Processing gateway request 9211.
+Refund ammount: 25500
+
+Processing gateway request 9214.
+Refund ammount: 1200
+
+Processing gateway request 9217.
+Refund ammount: 7500
+
+Processing gateway request 9220.
+Refund ammount: 42700
+
+Processing gateway request 9226.
+Refund ammount: 31200
+
+Processing gateway request 9229.
+Refund ammount: 800
+
+Processing gateway request 9238.
+Transaction was not completed, skipping.
+
+Processing gateway request 9241.
+Refund ammount: 5900
+
+Processing gateway request 9244.
+Refund ammount: 1200
+
+Processing gateway request 9247.
+Refund ammount: 2200
+
+Processing gateway request 9250.
+Refund ammount: 29000
+
+Processing gateway request 9253.
+Refund ammount: 1800
+
+Processing gateway request 9256.
+Refund ammount: 313200
+
+Processing gateway request 9262.
+Transaction was not completed, skipping.
+
+Processing gateway request 9265.
+Refund ammount: 31000
+
+Processing gateway request 9271.
+Transaction was not completed, skipping.
+
+Processing gateway request 9277.
+Refund ammount: 1000
+
+Processing gateway request 9280.
+Transaction was not completed, skipping.
+
+Processing gateway request 9283.
+Refund ammount: 5200
+
+Processing gateway request 9286.
+Refund ammount: 4100
+
+Processing gateway request 9292.
+Transaction was not completed, skipping.
+
+Processing gateway request 9301.
+Refund ammount: 43600
+
+Processing gateway request 9304.
+Insufficient balance, skipping.
+
+Processing gateway request 9307.
+Transaction was not completed, skipping.
+
+Processing gateway request 9310.
+Refund ammount: 11300
+
+Processing gateway request 9313.
+Transaction was not completed, skipping.
+
+Processing gateway request 9316.
+Refund ammount: 5500
+
+Processing gateway request 9319.
+Transaction was not completed, skipping.
+
+Processing gateway request 9322.
+Transaction was not completed, skipping.
+
+Processing gateway request 9325.
+Refund ammount: 2100
+
+Processing gateway request 9328.
+Refund ammount: 100
+
+Processing gateway request 9331.
+Refund ammount: 2100
+
+Processing gateway request 9334.
+Refund ammount: 3800
+
+Processing gateway request 9337.
+Refund ammount: 5000
+
+Processing gateway request 9343.
+Transaction was not completed, skipping.
+
+Processing gateway request 9346.
+Refund ammount: 2600
+
+Processing gateway request 9352.
+Refund ammount: 100
+
+Processing gateway request 9355.
+Insufficient balance, skipping.
+
+Processing gateway request 9358.
+Refund ammount: 3400
+
+Processing gateway request 9361.
+Refund ammount: 2200
+
+Processing gateway request 9364.
+Transaction was not completed, skipping.
+
+Processing gateway request 9367.
+Refund ammount: 39400
+
+Processing gateway request 9370.
+Transaction was not completed, skipping.
+
+Processing gateway request 9373.
+Refund ammount: 11300
+
+Processing gateway request 9376.
+Refund ammount: 82800
+
+Processing gateway request 9379.
+Insufficient balance, skipping.
+
+Processing gateway request 9382.
+Refund ammount: 2000
+
+Processing gateway request 9385.
+Transaction was not completed, skipping.
+
+Processing gateway request 9388.
+Transaction was not completed, skipping.
+
+Processing gateway request 9394.
+Refund ammount: 26100
+
+Processing gateway request 9397.
+Insufficient balance, skipping.
+
+Processing gateway request 9400.
+Refund ammount: 26100
+
+Processing gateway request 9403.
+Refund ammount: 17400
+
+Processing gateway request 9406.
+Refund ammount: 5800
+
+Processing gateway request 9409.
+Refund ammount: 26700
+
+Processing gateway request 9412.
+Refund ammount: 104800
+
+Processing gateway request 9415.
+Refund ammount: 23900
+
+Processing gateway request 9418.
+Refund ammount: 15100
+
+Processing gateway request 9421.
+Transaction was not completed, skipping.
+
+Processing gateway request 9424.
+Insufficient balance, skipping.
+
+Processing gateway request 9427.
+Transaction was not completed, skipping.
+
+Processing gateway request 9436.
+Refund ammount: 2300
+
+Processing gateway request 9442.
+Insufficient balance, skipping.
+
+Processing gateway request 9448.
+Refund ammount: 59500
+
+Processing gateway request 9451.
+Refund ammount: 20900
+
+Processing gateway request 9460.
+Transaction was not completed, skipping.
+
+Processing gateway request 9463.
+Refund ammount: 7700
+
+Processing gateway request 9469.
+Refund ammount: 1600
+
+Processing gateway request 9472.
+Transaction was not completed, skipping.
+
+Processing gateway request 9475.
+Refund ammount: 400
+
+Processing gateway request 9478.
+Refund ammount: 6700
+
+Processing gateway request 9481.
+Refund ammount: 25300
+
+Processing gateway request 9484.
+Refund ammount: 42000
+
+Processing gateway request 9487.
+Refund ammount: 1700
+
+Processing gateway request 9490.
+Insufficient balance, skipping.
+
+Processing gateway request 9493.
+Refund ammount: 58300
+
+Processing gateway request 9496.
+Refund ammount: 30100
+
+Processing gateway request 9499.
+Refund ammount: 4700
+
+Processing gateway request 9502.
+Refund ammount: 47200
+
+Processing gateway request 9505.
+Transaction was not completed, skipping.
+
+Processing gateway request 9508.
+Refund ammount: 4200
+
+Processing gateway request 9511.
+Transaction was not completed, skipping.
+
+Processing gateway request 9514.
+Transaction was not completed, skipping.
+
+Processing gateway request 9517.
+Refund ammount: 11300
+
+Processing gateway request 9520.
+Refund ammount: 68800
+
+Processing gateway request 9523.
+Transaction was not completed, skipping.
+
+Processing gateway request 9526.
+Transaction was not completed, skipping.
+
+Processing gateway request 9529.
+Refund ammount: 60200
+
+Processing gateway request 9538.
+Refund ammount: 86300
+
+Processing gateway request 9541.
+Refund ammount: 65800
+
+Processing gateway request 9544.
+Refund ammount: 3200
+
+Processing gateway request 9550.
+Refund ammount: 6500
+
+Processing gateway request 9553.
+Refund ammount: 18000
+
+Processing gateway request 9556.
+Refund ammount: 600
+
+Processing gateway request 9562.
+Refund ammount: 21200
+
+Processing gateway request 9565.
+Transaction was not completed, skipping.
+
+Processing gateway request 9568.
+Transaction was not completed, skipping.
+
+Processing gateway request 9571.
+Refund ammount: 3100
+
+Processing gateway request 9574.
+Transaction was not completed, skipping.
+
+Processing gateway request 9577.
+Refund ammount: 17800
+
+Processing gateway request 9580.
+Transaction was not completed, skipping.
+
+Processing gateway request 9583.
+Refund ammount: 85600
+
+Processing gateway request 9586.
+Transaction was not completed, skipping.
+
+Processing gateway request 9589.
+Refund ammount: 6000
+
+Processing gateway request 9592.
+Insufficient balance, skipping.
+
+Processing gateway request 9595.
+Refund ammount: 21700
+
+Processing gateway request 9598.
+Transaction was not completed, skipping.
+
+Processing gateway request 9601.
+Refund ammount: 72100
+
+Processing gateway request 9604.
+Refund ammount: 25900
+
+Processing gateway request 9607.
+Refund ammount: 30600
+
+Processing gateway request 9610.
+Insufficient balance, skipping.
+
+Processing gateway request 9613.
+Transaction was not completed, skipping.
+
+Processing gateway request 9616.
+Refund ammount: 50000
+
+Processing gateway request 9619.
+Refund ammount: 4200
+
+Processing gateway request 9625.
+Transaction was not completed, skipping.
+
+Processing gateway request 9631.
+Refund ammount: 66100
+
+Processing gateway request 9637.
+Refund ammount: 130800
+
+Processing gateway request 9640.
+Refund ammount: 4900
+
+Processing gateway request 9643.
+Refund ammount: 300
+
+Processing gateway request 9646.
+Refund ammount: 18700
+
+Processing gateway request 9649.
+Refund ammount: 12600
+
+Processing gateway request 9652.
+Refund ammount: 5800
+
+Processing gateway request 9655.
+Refund ammount: 53700
+
+Processing gateway request 9658.
+Refund ammount: 174900
+
+Processing gateway request 9661.
+Refund ammount: 41900
+
+Processing gateway request 9664.
+Refund ammount: 71700
+
+Processing gateway request 9667.
+Refund ammount: 28500
+
+Processing gateway request 9670.
+Refund ammount: 11000
+
+Processing gateway request 9673.
+Refund ammount: 22200
+
+Processing gateway request 9676.
+Transaction was not completed, skipping.
+
+Processing gateway request 9682.
+Refund ammount: 2800
+
+Processing gateway request 9685.
+Refund ammount: 8500
+
+Processing gateway request 9688.
+Refund ammount: 100
+
+Processing gateway request 9691.
+Refund ammount: 600
+
+Processing gateway request 9694.
+Refund ammount: 500
+
+Processing gateway request 9697.
+Refund ammount: 200
+
+Processing gateway request 9700.
+Refund ammount: 50100
+
+Processing gateway request 9706.
+Insufficient balance, skipping.
+
+Processing gateway request 9709.
+Refund ammount: 200
+
+Processing gateway request 9712.
+Insufficient balance, skipping.
+
+Processing gateway request 9715.
+Refund ammount: 2400
+
+Processing gateway request 9718.
+Refund ammount: 9500
+
+Processing gateway request 9721.
+Refund ammount: 9000
+
+Processing gateway request 9724.
+Refund ammount: 7000
+
+Processing gateway request 9727.
+Refund ammount: 17000
+
+Processing gateway request 9730.
+Refund ammount: 9000
+
+Processing gateway request 9733.
+Refund ammount: 9000
+
+Processing gateway request 9736.
+Refund ammount: 3700
+
+Processing gateway request 9739.
+Refund ammount: 1300
+
+Processing gateway request 9742.
+Refund ammount: 6400
+
+Processing gateway request 9745.
+Refund ammount: 40900
+
+Processing gateway request 9748.
+Insufficient balance, skipping.
+
+Processing gateway request 9751.
+Refund ammount: 1000
+
+Processing gateway request 9754.
+Refund ammount: 2500
+
+Processing gateway request 9757.
+Refund ammount: 2200
+
+Processing gateway request 9760.
+Refund ammount: 10500
+
+Processing gateway request 9766.
+Refund ammount: 11200
+
+Processing gateway request 9769.
+Refund ammount: 3000
+
+Processing gateway request 9772.
+Insufficient balance, skipping.
+
+Processing gateway request 9775.
+Refund ammount: 8000
+
+Processing gateway request 9778.
+Refund ammount: 21200
+
+Processing gateway request 9784.
+Refund ammount: 1700
+
+Processing gateway request 9787.
+Refund ammount: 3700
+
+Processing gateway request 9790.
+Refund ammount: 12400
+
+Processing gateway request 9793.
+Refund ammount: 3700
+
+Processing gateway request 9796.
+Refund ammount: 2500
+
+Processing gateway request 9799.
+Refund ammount: 60900
+
+Processing gateway request 9802.
+Refund ammount: 18000
+
+Processing gateway request 9805.
+Refund ammount: 3200
+
+Processing gateway request 9808.
+Refund ammount: 3700
+
+Processing gateway request 9811.
+Transaction was not completed, skipping.
+
+Processing gateway request 9814.
+Transaction was not completed, skipping.
+
+Processing gateway request 9820.
+Transaction was not completed, skipping.
+
+Processing gateway request 9823.
+Refund ammount: 33500
+
+Processing gateway request 9826.
+Transaction was not completed, skipping.
+
+Processing gateway request 9829.
+Transaction was not completed, skipping.
+
+Processing gateway request 9835.
+Transaction was not completed, skipping.
+
+Processing gateway request 9838.
+Insufficient balance, skipping.
+
+Processing gateway request 9841.
+Refund ammount: 10000
+
+Processing gateway request 9844.
+Refund ammount: 500
+
+Processing gateway request 9847.
+Refund ammount: 28900
+
+Processing gateway request 9850.
+Refund ammount: 100
+
+Processing gateway request 9853.
+Refund ammount: 7600
+
+Processing gateway request 9856.
+Refund ammount: 300
+
+Processing gateway request 9859.
+Refund ammount: 174300
+
+Processing gateway request 9865.
+Refund ammount: 44400
+
+Processing gateway request 9868.
+Refund ammount: 18800
+
+Processing gateway request 9871.
+Refund ammount: 14600
+
+Processing gateway request 9874.
+Insufficient balance, skipping.
+
+Processing gateway request 9877.
+Refund ammount: 5500
+
+Processing gateway request 9880.
+Refund ammount: 900
+
+Processing gateway request 9883.
+Refund ammount: 400
+
+Processing gateway request 9889.
+Refund ammount: 19800
+
+Processing gateway request 9892.
+Refund ammount: 1100
+
+Processing gateway request 9895.
+Refund ammount: 19500
+
+Processing gateway request 9898.
+Refund ammount: 13900
+
+Processing gateway request 9901.
+Refund ammount: 10900
+
+Processing gateway request 9904.
+Refund ammount: 18600
+
+Processing gateway request 9910.
+Refund ammount: 100
+
+Processing gateway request 9913.
+Refund ammount: 17900
+
+Processing gateway request 9916.
+Refund ammount: 47000
+
+Processing gateway request 9919.
+Refund ammount: 92800
+
+Processing gateway request 9922.
+Transaction was not completed, skipping.
+
+Processing gateway request 9925.
+Refund ammount: 100
+
+Processing gateway request 9928.
+Refund ammount: 43200
+
+Processing gateway request 9931.
+Refund ammount: 500
+
+Processing gateway request 9934.
+Refund ammount: 30800
+
+Processing gateway request 9937.
+Refund ammount: 2100
+
+Processing gateway request 9940.
+Refund ammount: 2400
+
+Processing gateway request 9943.
+Refund ammount: 13800
+
+Processing gateway request 9946.
+Refund ammount: 11200
+
+Processing gateway request 9949.
+Refund ammount: 7200
+
+Processing gateway request 9952.
+Refund ammount: 207000
+
+Processing gateway request 9955.
+Refund ammount: 400
+
+Processing gateway request 9958.
+Refund ammount: 143700
+
+Processing gateway request 9961.
+Refund ammount: 15500
+
+Processing gateway request 9964.
+Transaction was not completed, skipping.
+
+Processing gateway request 9967.
+Refund ammount: 76200
+
+Processing gateway request 9973.
+Refund ammount: 200
+
+Processing gateway request 9976.
+Refund ammount: 200
+
+Processing gateway request 9979.
+Refund ammount: 19700
+
+Processing gateway request 9982.
+Refund ammount: 6000
+
+Processing gateway request 9985.
+Refund ammount: 2400
+
+Processing gateway request 9988.
+Refund ammount: 2400
+
+Processing gateway request 9991.
+Refund ammount: 2700
+
+Processing gateway request 10000.
+Refund ammount: 1000
+
+Processing gateway request 10003.
+Insufficient balance, skipping.
+
+Processing gateway request 10006.
+Refund ammount: 60200
+
+Processing gateway request 10009.
+Transaction was not completed, skipping.
+
+Processing gateway request 10012.
+Transaction was not completed, skipping.
+
+Processing gateway request 10015.
+Refund ammount: 2200
+
+Processing gateway request 10018.
+Refund ammount: 13600
+
+Processing gateway request 10021.
+Refund ammount: 9100
+
+Processing gateway request 10024.
+Refund ammount: 8300
+
+Processing gateway request 10033.
+Refund ammount: 900
+
+Processing gateway request 10036.
+Refund ammount: 86400
+
+Processing gateway request 10039.
+Refund ammount: 14000
+
+Processing gateway request 10042.
+Refund ammount: 18900
+
+Processing gateway request 10048.
+Refund ammount: 15000
+
+Processing gateway request 10051.
+Refund ammount: 2300
+
+Processing gateway request 10054.
+Refund ammount: 4000
+
+Processing gateway request 10057.
+Refund ammount: 100
+
+Processing gateway request 10060.
+Refund ammount: 2500
+
+Processing gateway request 10063.
+Insufficient balance, skipping.
+
+Processing gateway request 10072.
+Refund ammount: 13600
+
+Processing gateway request 10075.
+Refund ammount: 2500
+
+Processing gateway request 10081.
+Transaction was not completed, skipping.
+
+Processing gateway request 10084.
+Transaction was not completed, skipping.
+
+Processing gateway request 10087.
+Transaction was not completed, skipping.
+
+Processing gateway request 10090.
+Refund ammount: 39900
+
+Processing gateway request 10096.
+Refund ammount: 1100
+
+Processing gateway request 10099.
+Refund ammount: 700
+
+Processing gateway request 10102.
+Transaction was not completed, skipping.
+
+Processing gateway request 10105.
+Insufficient balance, skipping.
+
+Processing gateway request 10108.
+Refund ammount: 1400
+
+Processing gateway request 10111.
+Refund ammount: 3100
+
+Processing gateway request 10114.
+Refund ammount: 800
+
+Processing gateway request 10117.
+Transaction was not completed, skipping.
+
+Processing gateway request 10120.
+Transaction was not completed, skipping.
+
+Processing gateway request 10123.
+Refund ammount: 1100
+
+Processing gateway request 10138.
+Refund ammount: 1600
+
+Processing gateway request 10141.
+Transaction was not completed, skipping.
+
+Processing gateway request 10144.
+Refund ammount: 47200
+
+Processing gateway request 10147.
+Refund ammount: 100000
+
+Processing gateway request 10150.
+Refund ammount: 2700
+
+Processing gateway request 10156.
+Refund ammount: 6800
+
+Processing gateway request 10159.
+Insufficient balance, skipping.
+
+Processing gateway request 10162.
+Refund ammount: 3300
+
+Processing gateway request 10165.
+Refund ammount: 6300
+
+Processing gateway request 10168.
+Insufficient balance, skipping.
+
+Processing gateway request 10174.
+Refund ammount: 88000
+
+Processing gateway request 10177.
+Refund ammount: 33300
+
+Processing gateway request 10186.
+Refund ammount: 3000
+
+Processing gateway request 10192.
+Refund ammount: 23100
+
+Processing gateway request 10198.
+Refund ammount: 72100
+
+Processing gateway request 10201.
+Refund ammount: 29200
+
+Processing gateway request 10204.
+Transaction was not completed, skipping.
+
+Processing gateway request 10210.
+Refund ammount: 50100
+
+Processing gateway request 10213.
+Refund ammount: 700
+
+Processing gateway request 10216.
+Refund ammount: 14200
+
+Processing gateway request 10219.
+Refund ammount: 62100
+
+Processing gateway request 10228.
+Refund ammount: 132600
+
+Processing gateway request 10231.
+Refund ammount: 39700
+
+Processing gateway request 10240.
+Refund ammount: 500
+
+Processing gateway request 10243.
+Refund ammount: 1500
+
+Processing gateway request 10246.
+Refund ammount: 23600
+
+Processing gateway request 10252.
+Transaction was not completed, skipping.
+
+Processing gateway request 10255.
+Refund ammount: 8800
+
+Processing gateway request 10258.
+Refund ammount: 20200
+
+Processing gateway request 10267.
+Transaction was not completed, skipping.
+
+Processing gateway request 10270.
+Refund ammount: 400
+
+Processing gateway request 10273.
+Transaction was not completed, skipping.
+
+Processing gateway request 10276.
+Refund ammount: 1300
+
+Processing gateway request 10279.
+Refund ammount: 3200
+
+Processing gateway request 10282.
+Refund ammount: 83500
+
+Processing gateway request 10285.
+Refund ammount: 3500
+
+Processing gateway request 10291.
+Refund ammount: 36300
+
+Processing gateway request 10294.
+Insufficient balance, skipping.
+
+Processing gateway request 10297.
+Refund ammount: 5800
+
+Processing gateway request 10303.
+Transaction was not completed, skipping.
+
+Processing gateway request 10306.
+Refund ammount: 41700
+
+Processing gateway request 10309.
+Refund ammount: 3200
+
+Processing gateway request 10312.
+Refund ammount: 400
+
+Processing gateway request 10315.
+Refund ammount: 1300
+
+Processing gateway request 10318.
+Refund ammount: 40300
+
+Processing gateway request 10324.
+Refund ammount: 26100
+
+Processing gateway request 10327.
+Refund ammount: 18600
+
+Processing gateway request 10330.
+Refund ammount: 3400
+
+Processing gateway request 10333.
+Refund ammount: 134700
+
+Processing gateway request 10336.
+Transaction was not completed, skipping.
+
+Processing gateway request 10339.
+Refund ammount: 60000
+
+Processing gateway request 10342.
+Insufficient balance, skipping.
+
+Processing gateway request 10345.
+Refund ammount: 2800
+
+Processing gateway request 10348.
+Refund ammount: 15900
+
+Processing gateway request 10354.
+Insufficient balance, skipping.
+
+Processing gateway request 10357.
+Refund ammount: 4500
+
+Processing gateway request 10360.
+Refund ammount: 200
+
+Processing gateway request 10363.
+Insufficient balance, skipping.
+
+Processing gateway request 10366.
+Transaction was not completed, skipping.
+
+Processing gateway request 10369.
+Refund ammount: 1400
+
+Processing gateway request 10372.
+Refund ammount: 4000
+
+Processing gateway request 10375.
+Refund ammount: 700
+
+Processing gateway request 10378.
+Refund ammount: 9100
+
+Processing gateway request 10384.
+Refund ammount: 400
+
+Processing gateway request 10387.
+Refund ammount: 6800
+
+Processing gateway request 10393.
+Transaction was not completed, skipping.
+
+Processing gateway request 10396.
+Refund ammount: 24900
+
+Processing gateway request 10402.
+Refund ammount: 21700
+
+Processing gateway request 10405.
+Refund ammount: 1000
+
+Processing gateway request 10411.
+Refund ammount: 4000
+
+Processing gateway request 10417.
+Refund ammount: 9800
+
+Processing gateway request 10420.
+Refund ammount: 3500
+
+Processing gateway request 10423.
+Refund ammount: 8300
+
+Processing gateway request 10426.
+Insufficient balance, skipping.
+
+Processing gateway request 10429.
+Refund ammount: 3100
+
+Processing gateway request 10432.
+Refund ammount: 118200
+
+Processing gateway request 10435.
+Transaction was not completed, skipping.
+
+Processing gateway request 10438.
+Refund ammount: 2800
+
+Processing gateway request 10441.
+Refund ammount: 24000
+
+Processing gateway request 10444.
+Refund ammount: 25800
+
+Processing gateway request 10447.
+Refund ammount: 4000
+
+Processing gateway request 10450.
+Refund ammount: 17800
+
+Processing gateway request 10453.
+Insufficient balance, skipping.
+
+Processing gateway request 10459.
+Refund ammount: 1100
+
+Processing gateway request 10462.
+Refund ammount: 3000
+
+Processing gateway request 10465.
+Refund ammount: 100
+
+Processing gateway request 10468.
+Refund ammount: 4900
+
+Processing gateway request 10471.
+Refund ammount: 299700
+
+Processing gateway request 10474.
+Insufficient balance, skipping.
+
+Processing gateway request 10477.
+Refund ammount: 26100
+
+Processing gateway request 10480.
+Refund ammount: 14400
+
+Processing gateway request 10486.
+Refund ammount: 15500
+
+Processing gateway request 10489.
+Refund ammount: 14000
+
+Processing gateway request 10492.
+Refund ammount: 68000
+
+Processing gateway request 10498.
+Transaction was not completed, skipping.
+
+Processing gateway request 10501.
+Refund ammount: 22500
+
+Processing gateway request 10504.
+Refund ammount: 300
+
+Processing gateway request 10507.
+Refund ammount: 1300
+
+Processing gateway request 10510.
+Refund ammount: 3200
+
+Processing gateway request 10513.
+Refund ammount: 1300
+
+Processing gateway request 10516.
+Refund ammount: 16200
+
+Processing gateway request 10522.
+Transaction was not completed, skipping.
+
+Processing gateway request 10525.
+Transaction was not completed, skipping.
+
+Processing gateway request 10528.
+Refund ammount: 4600
+
+Processing gateway request 10531.
+Refund ammount: 2900
+
+Processing gateway request 10534.
+Refund ammount: 2500
+
+Processing gateway request 10537.
+Refund ammount: 7700
+
+Processing gateway request 10540.
+Refund ammount: 9600
+
+Processing gateway request 10546.
+Refund ammount: 5400
+
+Processing gateway request 10549.
+Refund ammount: 2800
+
+Processing gateway request 10552.
+Refund ammount: 7000
+
+Processing gateway request 10555.
+Refund ammount: 95300
+
+Processing gateway request 10558.
+Transaction was not completed, skipping.
+
+Processing gateway request 10564.
+Refund ammount: 6000
+
+Processing gateway request 10573.
+Insufficient balance, skipping.
+
+Processing gateway request 10576.
+Refund ammount: 25400
+
+Processing gateway request 10579.
+Transaction was not completed, skipping.
+
+Processing gateway request 10582.
+Refund ammount: 2100
+
+Processing gateway request 10585.
+Transaction was not completed, skipping.
+
+Processing gateway request 10588.
+Refund ammount: 4400
+
+Processing gateway request 10591.
+Refund ammount: 12000
+
+Processing gateway request 10594.
+Refund ammount: 73300
+
+Processing gateway request 10597.
+Insufficient balance, skipping.
+
+Processing gateway request 10600.
+Refund ammount: 100
+
+Processing gateway request 10603.
+Refund ammount: 4900
+
+Processing gateway request 10606.
+Transaction was not completed, skipping.
+
+Processing gateway request 10609.
+Transaction was not completed, skipping.
+
+Processing gateway request 10615.
+Refund ammount: 3900
+
+Processing gateway request 10618.
+Refund ammount: 900
+
+Processing gateway request 10621.
+Refund ammount: 3300
+
+Processing gateway request 10627.
+Refund ammount: 70000
+
+Processing gateway request 10630.
+Refund ammount: 3600
+
+Processing gateway request 10636.
+Refund ammount: 1800
+
+Processing gateway request 10639.
+Refund ammount: 1000
+
+Processing gateway request 10642.
+Insufficient balance, skipping.
+
+Processing gateway request 10645.
+Refund ammount: 22200
+
+Processing gateway request 10648.
+Insufficient balance, skipping.
+
+Processing gateway request 10651.
+Insufficient balance, skipping.
+
+Processing gateway request 10654.
+Refund ammount: 6000
+
+Processing gateway request 10657.
+Refund ammount: 40000
+
+Processing gateway request 10660.
+Refund ammount: 66600
+
+Processing gateway request 10666.
+Refund ammount: 1700
+
+Processing gateway request 10669.
+Refund ammount: 27500
+
+Processing gateway request 10672.
+Refund ammount: 60000
+
+Processing gateway request 10675.
+Insufficient balance, skipping.
+
+Processing gateway request 10678.
+Refund ammount: 28500
+
+Processing gateway request 10681.
+Refund ammount: 3600
+
+Processing gateway request 10684.
+Refund ammount: 18000
+
+Processing gateway request 10687.
+Refund ammount: 1400
+
+Processing gateway request 10693.
+Refund ammount: 6800
+
+Processing gateway request 10696.
+Insufficient balance, skipping.
+
+Processing gateway request 10699.
+Refund ammount: 5400
+
+Processing gateway request 10702.
+Insufficient balance, skipping.
+
+Processing gateway request 10705.
+Refund ammount: 4000
+
+Processing gateway request 10708.
+Refund ammount: 14000
+
+Processing gateway request 10711.
+Refund ammount: 15900
+
+Processing gateway request 10714.
+Refund ammount: 1400
+
+Processing gateway request 10717.
+Refund ammount: 12400
+
+Processing gateway request 10720.
+Transaction was not completed, skipping.
+
+Processing gateway request 10726.
+Refund ammount: 23100
+
+Processing gateway request 10735.
+Refund ammount: 1400
+
+Processing gateway request 10738.
+Refund ammount: 1000
+
+Processing gateway request 10741.
+Refund ammount: 3600
+
+Processing gateway request 10744.
+Transaction was not completed, skipping.
+
+Processing gateway request 10747.
+Refund ammount: 3600
+
+Processing gateway request 10753.
+Transaction was not completed, skipping.
+
+Processing gateway request 10756.
+Refund ammount: 20000
+
+Processing gateway request 10759.
+Refund ammount: 800
+
+Processing gateway request 10762.
+Refund ammount: 42000
+
+Processing gateway request 10765.
+Refund ammount: 44000
+
+Processing gateway request 10768.
+Refund ammount: 1900
+
+Processing gateway request 10771.
+Refund ammount: 34900
+
+Processing gateway request 10774.
+Refund ammount: 69700
+
+Processing gateway request 10777.
+Refund ammount: 15100
+
+Processing gateway request 10780.
+Refund ammount: 23900
+
+Processing gateway request 10786.
+Refund ammount: 14600
+
+Processing gateway request 10789.
+Refund ammount: 6000
+
+Processing gateway request 10795.
+Transaction was not completed, skipping.
+
+Processing gateway request 10801.
+Transaction was not completed, skipping.
+
+Processing gateway request 10804.
+Insufficient balance, skipping.
+
+Processing gateway request 10807.
+Transaction was not completed, skipping.
+
+Processing gateway request 10810.
+Insufficient balance, skipping.
+
+Processing gateway request 10813.
+Refund ammount: 26800
+
+Processing gateway request 10816.
+Refund ammount: 400
+
+Processing gateway request 10819.
+Refund ammount: 55000
+
+Processing gateway request 10822.
+Refund ammount: 3200
+
+Processing gateway request 10825.
+Refund ammount: 1000
+
+Processing gateway request 10834.
+Refund ammount: 4000
+
+Processing gateway request 10837.
+Insufficient balance, skipping.
+
+Processing gateway request 10843.
+Refund ammount: 2600
+
+Processing gateway request 10852.
+Refund ammount: 4000
+
+Processing gateway request 10861.
+Refund ammount: 2200
+
+Processing gateway request 10864.
+Transaction was not completed, skipping.
+
+Processing gateway request 10867.
+Refund ammount: 6600
+
+Processing gateway request 10870.
+Refund ammount: 25900
+
+Processing gateway request 10873.
+Refund ammount: 72100
+
+Processing gateway request 10879.
+Refund ammount: 7200
+
+Processing gateway request 10882.
+Refund ammount: 10900
+
+Processing gateway request 10885.
+Refund ammount: 2200
+
+Processing gateway request 10888.
+Refund ammount: 60800
+
+Processing gateway request 10891.
+Refund ammount: 118200
+
+Processing gateway request 10894.
+Refund ammount: 16200
+
+Processing gateway request 10900.
+Refund ammount: 4000
+
+Processing gateway request 10903.
+Refund ammount: 62100
+
+Processing gateway request 10906.
+Insufficient balance, skipping.
+
+Processing gateway request 10909.
+Refund ammount: 11700
+
+Processing gateway request 10918.
+Insufficient balance, skipping.
+
+Processing gateway request 10921.
+Refund ammount: 3800
+
+Processing gateway request 10924.
+Refund ammount: 146600
+
+Processing gateway request 10927.
+Refund ammount: 19300
+
+Processing gateway request 10930.
+Transaction was not completed, skipping.
+
+Processing gateway request 10933.
+Refund ammount: 2100
+
+Processing gateway request 10936.
+Refund ammount: 11200
+
+Processing gateway request 10939.
+Refund ammount: 4400
+
+Processing gateway request 10942.
+Transaction was not completed, skipping.
+
+Processing gateway request 10948.
+Refund ammount: 2300
+
+Processing gateway request 10951.
+Refund ammount: 1000
+
+Processing gateway request 10954.
+Refund ammount: 300
+
+Processing gateway request 10957.
+Insufficient balance, skipping.
+
+Processing gateway request 10960.
+Refund ammount: 7000
+
+Processing gateway request 10963.
+Refund ammount: 40300
+
+Processing gateway request 10966.
+Refund ammount: 7200
+
+Processing gateway request 10972.
+Transaction was not completed, skipping.
+
+Processing gateway request 10978.
+Refund ammount: 6200
+
+Processing gateway request 10981.
+Refund ammount: 2800
+
+Processing gateway request 10984.
+Refund ammount: 3800
+
+Processing gateway request 10987.
+Refund ammount: 19700
+
+Processing gateway request 10990.
+Transaction was not completed, skipping.
+
+Processing gateway request 10996.
+Refund ammount: 4000
+
+Processing gateway request 10999.
+Insufficient balance, skipping.
+
+Processing gateway request 11002.
+Refund ammount: 82800
+
+Processing gateway request 11005.
+Refund ammount: 2300
+
+Processing gateway request 11008.
+Refund ammount: 700
+
+Processing gateway request 11011.
+Refund ammount: 19100
+
+Processing gateway request 11020.
+Refund ammount: 11300
+
+Processing gateway request 11026.
+Refund ammount: 400
+
+Processing gateway request 11029.
+Refund ammount: 95300
+
+Processing gateway request 11038.
+Refund ammount: 100
+
+Processing gateway request 11041.
+Refund ammount: 300
+
+Processing gateway request 11047.
+Refund ammount: 3900
+
+Processing gateway request 11050.
+Refund ammount: 10600
+
+Processing gateway request 11053.
+Refund ammount: 3700
+
+Processing gateway request 11059.
+Refund ammount: 5800
+
+Processing gateway request 11062.
+Refund ammount: 15900
+
+Processing gateway request 11065.
+Refund ammount: 8400
+
+Processing gateway request 11068.
+Refund ammount: 200
+
+Processing gateway request 11071.
+Refund ammount: 2600
+
+Processing gateway request 11074.
+Refund ammount: 13800
+
+Processing gateway request 11077.
+Transaction was not completed, skipping.
+
+Processing gateway request 11080.
+Refund ammount: 3700
+
+Processing gateway request 11083.
+Refund ammount: 1800
+
+Processing gateway request 11086.
+Refund ammount: 11300
+
+Processing gateway request 11089.
+Transaction was not completed, skipping.
+
+Processing gateway request 11095.
+Insufficient balance, skipping.
+
+Processing gateway request 11098.
+Insufficient balance, skipping.
+
+Processing gateway request 11107.
+Refund ammount: 14600
+
+Processing gateway request 11110.
+Refund ammount: 42000
+
+Processing gateway request 11113.
+Refund ammount: 1400
+
+Processing gateway request 11116.
+Refund ammount: 3500
+
+Processing gateway request 11119.
+Refund ammount: 21600
+
+Processing gateway request 11122.
+Refund ammount: 3800
+
+Processing gateway request 11125.
+Refund ammount: 26100
+
+Processing gateway request 11128.
+Refund ammount: 7600
+
+Processing gateway request 11131.
+Insufficient balance, skipping.
+
+Processing gateway request 11134.
+Refund ammount: 5100
+
+Processing gateway request 11137.
+Insufficient balance, skipping.
+
+Processing gateway request 11140.
+Insufficient balance, skipping.
+
+Processing gateway request 11143.
+Refund ammount: 22500
+
+Processing gateway request 11146.
+Refund ammount: 2500
+
+Processing gateway request 11152.
+Refund ammount: 17200
+
+Processing gateway request 11155.
+Refund ammount: 20900
+
+Processing gateway request 11158.
+Refund ammount: 9100
+
+Processing gateway request 11161.
+Refund ammount: 4000
+
+Processing gateway request 11164.
+Refund ammount: 1000
+
+Processing gateway request 11167.
+Refund ammount: 22200
+
+Processing gateway request 11170.
+Refund ammount: 3000
+
+Processing gateway request 11173.
+Refund ammount: 20200
+
+Processing gateway request 11176.
+Refund ammount: 3600
+
+Processing gateway request 11179.
+Refund ammount: 900
+
+Processing gateway request 11182.
+Refund ammount: 1600
+
+Processing gateway request 11185.
+Transaction was not completed, skipping.
+
+Processing gateway request 11188.
+Refund ammount: 1700
+
+Processing gateway request 11194.
+Refund ammount: 10500
+
+Processing gateway request 11203.
+Refund ammount: 38000
+
+Processing gateway request 11206.
+Refund ammount: 1900
+
+Processing gateway request 11212.
+Refund ammount: 4000
+
+Processing gateway request 11215.
+Refund ammount: 15000
+
+Processing gateway request 11218.
+Refund ammount: 69700
+
+Processing gateway request 11221.
+Refund ammount: 1000
+
+Processing gateway request 11224.
+Refund ammount: 1100
+
+Processing gateway request 11227.
+Insufficient balance, skipping.
+
+Processing gateway request 11230.
+Insufficient balance, skipping.
+
+Processing gateway request 11233.
+Refund ammount: 42000
+
+Processing gateway request 11236.
+Refund ammount: 1700
+
+Processing gateway request 11239.
+Refund ammount: 35700
+
+Processing gateway request 11242.
+Refund ammount: 6800
+
+Processing gateway request 11248.
+Refund ammount: 18600
+
+Processing gateway request 11251.
+Refund ammount: 15500
+
+Processing gateway request 11257.
+Refund ammount: 4000
+
+Processing gateway request 11260.
+Transaction was not completed, skipping.
+
+Processing gateway request 11263.
+Refund ammount: 3700
+
+Processing gateway request 11266.
+Refund ammount: 4000
+
+Processing gateway request 11272.
+Refund ammount: 9800
+
+Processing gateway request 11275.
+Refund ammount: 6000
+
+Processing gateway request 11281.
+Refund ammount: 1700
+
+Processing gateway request 11284.
+Insufficient balance, skipping.
+
+Processing gateway request 11287.
+Refund ammount: 1400
+
+Processing gateway request 11293.
+Refund ammount: 23100
+
+Processing gateway request 11299.
+Insufficient balance, skipping.
+
+Processing gateway request 11302.
+Refund ammount: 4500
+
+Processing gateway request 11311.
+Refund ammount: 2000
+
+Processing gateway request 11317.
+Refund ammount: 66600
+
+Processing gateway request 11320.
+Refund ammount: 18900
+
+Processing gateway request 11323.
+Refund ammount: 3700
+
+Processing gateway request 11326.
+Transaction was not completed, skipping.
+
+Processing gateway request 11329.
+Refund ammount: 3500
+
+Processing gateway request 11332.
+Refund ammount: 21600
+
+Processing gateway request 11335.
+Refund ammount: 1400
+
+Processing gateway request 11341.
+Refund ammount: 10900
+
+Processing gateway request 11344.
+Refund ammount: 3900
+
+Processing gateway request 11347.
+Refund ammount: 800
+
+Processing gateway request 11350.
+Transaction was not completed, skipping.
+
+Processing gateway request 11353.
+Transaction was not completed, skipping.
+
+Processing gateway request 11359.
+Transaction was not completed, skipping.
+
+Processing gateway request 11365.
+Refund ammount: 1500
+
+Processing gateway request 11368.
+Transaction was not completed, skipping.
+
+Processing gateway request 11371.
+Transaction was not completed, skipping.
+
+Processing gateway request 11374.
+Refund ammount: 14600
+
+Processing gateway request 11377.
+Refund ammount: 8000
+
+Processing gateway request 11380.
+Refund ammount: 5200
+
+Processing gateway request 11383.
+Refund ammount: 2600
+
+Processing gateway request 11386.
+Refund ammount: 1100
+
+Processing gateway request 11389.
+Insufficient balance, skipping.
+
+Processing gateway request 11392.
+Refund ammount: 23900
+
+Processing gateway request 11395.
+Refund ammount: 3700
+
+Processing gateway request 11398.
+Transaction was not completed, skipping.
+
+Processing gateway request 11401.
+Transaction was not completed, skipping.
+
+Processing gateway request 11404.
+Transaction was not completed, skipping.
+
+Processing gateway request 11410.
+Refund ammount: 2100
+
+Processing gateway request 11413.
+Refund ammount: 3600
+
+Processing gateway request 11416.
+Transaction was not completed, skipping.
+
+Processing gateway request 11419.
+Refund ammount: 4400
+
+Processing gateway request 11422.
+Refund ammount: 10900
+
+Processing gateway request 11425.
+Refund ammount: 15900
+
+Processing gateway request 11428.
+Refund ammount: 4900
+
+Processing gateway request 11431.
+Refund ammount: 900
+
+Processing gateway request 11434.
+Refund ammount: 7900
+
+Processing gateway request 11437.
+Refund ammount: 400
+
+Processing gateway request 11440.
+Refund ammount: 700
+
+Processing gateway request 11443.
+Refund ammount: 7700
+
+Processing gateway request 11446.
+Refund ammount: 8600
+
+Processing gateway request 11449.
+Refund ammount: 23100
+
+Processing gateway request 11455.
+Refund ammount: 60800
+
+Processing gateway request 11458.
+Refund ammount: 10600
+
+Processing gateway request 11461.
+Refund ammount: 1200
+
+Processing gateway request 11464.
+Insufficient balance, skipping.
+
+Processing gateway request 11470.
+Refund ammount: 8300
+
+Processing gateway request 11473.
+Refund ammount: 2600
+
+Processing gateway request 11476.
+Refund ammount: 1800
+
+Processing gateway request 11479.
+Refund ammount: 3900
+
+Processing gateway request 11482.
+Refund ammount: 7200
+
+Processing gateway request 11485.
+Refund ammount: 1100
+
+Processing gateway request 11488.
+Refund ammount: 68000
+
+Processing gateway request 11491.
+Refund ammount: 2500
+
+Processing gateway request 11494.
+Transaction was not completed, skipping.
+
+Processing gateway request 11497.
+Transaction was not completed, skipping.
+
+Processing gateway request 11500.
+Insufficient balance, skipping.
+
+Processing gateway request 11503.
+Transaction was not completed, skipping.
+
+Processing gateway request 11509.
+Refund ammount: 6400
+
+Processing gateway request 11512.
+Refund ammount: 1500
+
+Processing gateway request 11518.
+Refund ammount: 4500
+
+Processing gateway request 11521.
+Refund ammount: 29000
+
+Processing gateway request 11524.
+Refund ammount: 2200
+
+Processing gateway request 11527.
+Refund ammount: 600
+
+Processing gateway request 11530.
+Refund ammount: 4000
+
+Processing gateway request 11533.
+Refund ammount: 17200
+
+Processing gateway request 11539.
+Refund ammount: 18900
+
+Processing gateway request 11554.
+Refund ammount: 11200
+
+Processing gateway request 11560.
+Refund ammount: 800
+
+Processing gateway request 11563.
+Refund ammount: 4300
+
+Processing gateway request 11566.
+Refund ammount: 900
+
+Processing gateway request 11569.
+Refund ammount: 23100
+
+Processing gateway request 11572.
+Refund ammount: 22100
+
+Processing gateway request 11575.
+Refund ammount: 10100
+
+Processing gateway request 11578.
+Transaction was not completed, skipping.
+
+Processing gateway request 11581.
+Refund ammount: 3900
+
+Processing gateway request 11584.
+Refund ammount: 6600
+
+Processing gateway request 11587.
+Refund ammount: 4900
+
+Processing gateway request 11590.
+Refund ammount: 8200
+
+Processing gateway request 11593.
+Refund ammount: 19100
+
+Processing gateway request 11596.
+Refund ammount: 6200
+
+Processing gateway request 11599.
+Refund ammount: 300
+
+Processing gateway request 11602.
+Refund ammount: 11400
+
+Processing gateway request 11605.
+Refund ammount: 15500
+
+Processing gateway request 11611.
+Refund ammount: 900
+
+Processing gateway request 11617.
+Transaction was not completed, skipping.
+
+Processing gateway request 11620.
+Refund ammount: 3300
+
+Processing gateway request 11623.
+Refund ammount: 9100
+
+Processing gateway request 11629.
+Refund ammount: 4200
+
+Processing gateway request 11632.
+Refund ammount: 700
+
+Processing gateway request 11635.
+Refund ammount: 7000
+
+Processing gateway request 11638.
+Refund ammount: 1000
+
+Processing gateway request 11641.
+Refund ammount: 2800
+
+Processing gateway request 11644.
+Insufficient balance, skipping.
+
+Processing gateway request 11650.
+Refund ammount: 4000
+
+Processing gateway request 11659.
+Refund ammount: 4000
+
+Processing gateway request 11662.
+Refund ammount: 2300
+
+Processing gateway request 11665.
+Refund ammount: 5300
+
+Processing gateway request 11668.
+Refund ammount: 7200
+
+Processing gateway request 11671.
+Refund ammount: 1300
+
+Processing gateway request 11674.
+Refund ammount: 3600
+
+Processing gateway request 11677.
+Refund ammount: 1900
+
+Processing gateway request 11683.
+Refund ammount: 51900
+
+Processing gateway request 11686.
+Refund ammount: 100
+
+Processing gateway request 11689.
+Insufficient balance, skipping.
+
+Processing gateway request 11692.
+Refund ammount: 9800
+
+Processing gateway request 11695.
+Refund ammount: 19700
+
+Processing gateway request 11698.
+Refund ammount: 2700
+
+Processing gateway request 11701.
+Refund ammount: 33100
+
+Processing gateway request 11704.
+Transaction was not completed, skipping.
+
+Processing gateway request 11707.
+Refund ammount: 9900
+
+Processing gateway request 11710.
+Refund ammount: 1000
+
+Processing gateway request 11713.
+Refund ammount: 41700
+
+Processing gateway request 11716.
+Refund ammount: 69700
+
+Processing gateway request 11719.
+Refund ammount: 1000
+
+Processing gateway request 11722.
+Refund ammount: 30500
+
+Processing gateway request 11725.
+Refund ammount: 2300
+
+Processing gateway request 11731.
+Refund ammount: 10500
+
+Processing gateway request 11734.
+Refund ammount: 83500
+
+Processing gateway request 11737.
+Refund ammount: 100000
+
+Processing gateway request 11740.
+Refund ammount: 1000
+
+Processing gateway request 11749.
+Refund ammount: 10600
+
+Processing gateway request 11752.
+Insufficient balance, skipping.
+
+Processing gateway request 11755.
+Refund ammount: 28500
+
+Processing gateway request 11758.
+Refund ammount: 26700
+
+Processing gateway request 11761.
+Insufficient balance, skipping.
+
+Processing gateway request 11764.
+Refund ammount: 7600
+
+Processing gateway request 11767.
+Refund ammount: 10000
+
+Processing gateway request 11770.
+Refund ammount: 12100
+
+Processing gateway request 11773.
+Refund ammount: 15900
+
+Processing gateway request 11776.
+Refund ammount: 38300
+
+Processing gateway request 11779.
+Refund ammount: 3900
+
+Processing gateway request 11782.
+Refund ammount: 2300
+
+Processing gateway request 11785.
+Refund ammount: 6000
+
+Processing gateway request 11788.
+Refund ammount: 7200
+
+Processing gateway request 11791.
+Refund ammount: 20900
+
+Processing gateway request 11794.
+Refund ammount: 7200
+
+Processing gateway request 11797.
+Refund ammount: 900
+
+Processing gateway request 11800.
+Refund ammount: 600
+
+Processing gateway request 11803.
+Refund ammount: 7200
+
+Processing gateway request 11806.
+Refund ammount: 6200
+
+Processing gateway request 11809.
+Refund ammount: 2500
+
+Processing gateway request 11812.
+Refund ammount: 2600
+
+Processing gateway request 11815.
+Refund ammount: 6200
+
+Processing gateway request 11818.
+Refund ammount: 9900
+
+Processing gateway request 11821.
+Refund ammount: 22500
+
+Processing gateway request 11824.
+Refund ammount: 4500
+
+Processing gateway request 11827.
+Transaction was not completed, skipping.
+
+Processing gateway request 11830.
+Refund ammount: 3100
+
+Processing gateway request 11833.
+Insufficient balance, skipping.
+
+Processing gateway request 11836.
+Insufficient balance, skipping.
+
+Processing gateway request 11839.
+Refund ammount: 4900
+
+Processing gateway request 11842.
+Refund ammount: 2700
+
+Processing gateway request 11845.
+Refund ammount: 11700
+
+Processing gateway request 11848.
+Refund ammount: 2400
+
+Processing gateway request 11851.
+Refund ammount: 600
+
+Processing gateway request 11854.
+Refund ammount: 100
+
+Processing gateway request 11857.
+Refund ammount: 700
+
+Processing gateway request 11860.
+Transaction was not completed, skipping.
+
+Processing gateway request 11863.
+Refund ammount: 1400
+
+Processing gateway request 11866.
+Refund ammount: 3600
+
+Processing gateway request 11869.
+Refund ammount: 2700
+
+Processing gateway request 11872.
+Refund ammount: 15500
+
+Processing gateway request 11881.
+Refund ammount: 6800
+
+Processing gateway request 11884.
+Refund ammount: 1800
+
+Processing gateway request 11887.
+Refund ammount: 17200
+
+Processing gateway request 11890.
+Transaction was not completed, skipping.
+
+Processing gateway request 11893.
+Refund ammount: 30000
+
+Processing gateway request 11896.
+Refund ammount: 6400
+
+Processing gateway request 11905.
+Refund ammount: 10000
+
+Processing gateway request 11911.
+Refund ammount: 9800
+
+Processing gateway request 11914.
+Refund ammount: 66600
+
+Processing gateway request 11917.
+Refund ammount: 700
+
+Processing gateway request 11920.
+Refund ammount: 1400
+
+Processing gateway request 11923.
+Refund ammount: 3300
+
+Processing gateway request 11926.
+Refund ammount: 5300
+
+Processing gateway request 11929.
+Refund ammount: 11300
+
+Processing gateway request 11932.
+Refund ammount: 38300
+
+Processing gateway request 11935.
+Refund ammount: 29000
+
+Processing gateway request 11938.
+Refund ammount: 8000
+
+Processing gateway request 11941.
+Transaction was not completed, skipping.
+
+Processing gateway request 11950.
+Insufficient balance, skipping.
+
+Processing gateway request 11953.
+Refund ammount: 10000
+
+Processing gateway request 11956.
+Refund ammount: 2200
+
+Processing gateway request 11959.
+Refund ammount: 11700
+
+Processing gateway request 11962.
+Refund ammount: 4500
+
+Processing gateway request 11965.
+Refund ammount: 1400
+
+Processing gateway request 11968.
+Refund ammount: 100
+
+Processing gateway request 11971.
+Refund ammount: 5200
+
+Processing gateway request 11974.
+Transaction was not completed, skipping.
+
+Processing gateway request 11977.
+Refund ammount: 80000
+
+Processing gateway request 11983.
+Refund ammount: 22100
+
+Processing gateway request 11986.
+Refund ammount: 700
+
+Processing gateway request 11989.
+Refund ammount: 5100
+
+Processing gateway request 11992.
+Refund ammount: 62100
+
+Processing gateway request 11995.
+Refund ammount: 66600
+
+Processing gateway request 11998.
+Refund ammount: 15000
+
+Processing gateway request 12001.
+Refund ammount: 4000
+
+Processing gateway request 12004.
+Refund ammount: 15900
+
+Processing gateway request 12007.
+Refund ammount: 800
+
+Processing gateway request 12010.
+Refund ammount: 9900
+
+Processing gateway request 12013.
+Refund ammount: 4000
+
+Processing gateway request 12016.
+Refund ammount: 4000
+
+Processing gateway request 12019.
+Refund ammount: 20000
+
+Processing gateway request 12022.
+Refund ammount: 3200
+
+Processing gateway request 12025.
+Refund ammount: 12400

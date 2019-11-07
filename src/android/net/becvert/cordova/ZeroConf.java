@@ -38,6 +38,9 @@ import javax.jmdns.ServiceEvent;
 import javax.jmdns.ServiceInfo;
 import javax.jmdns.ServiceListener;
 
+import net.becvert.cordova.ChatConnection;
+import android.os.Handler;
+
 import static android.content.Context.WIFI_SERVICE;
 
 public class ZeroConf extends CordovaPlugin {
@@ -52,6 +55,9 @@ public class ZeroConf extends CordovaPlugin {
     private List<InetAddress> ipv6Addresses;
     private List<InetAddress> ipv4Addresses;
     private String hostname;
+    private ServiceInfo mService;
+    private Handler mHandler;
+    ChatConnection mConnection;
 
     public static final String ACTION_GET_HOSTNAME = "getHostname";
     // publisher
@@ -508,6 +514,10 @@ public class ZeroConf extends CordovaPlugin {
                 status.put("action", action);
                 status.put("service", jsonifyService(service));
 
+                if (action == 'resolved') {
+                    mService = service;
+                }
+
                 Log.d(TAG, "Sending result: " + status.toString());
 
                 PluginResult result = new PluginResult(PluginResult.Status.OK, status);
@@ -574,6 +584,54 @@ public class ZeroConf extends CordovaPlugin {
             hostName = "android-" + id;
         }
         return hostName;
+    }
+
+    public void initChat(CallbackContext callbackContext) {
+        final CallbackContext cbc = callbackContext;
+        try {
+            mHandler = new Handler() {
+                    @Override
+                public void handleMessage(Message msg) {
+                    String type = msg.getData().getString("type");
+                    String message = msg.getData().getString("msg");
+//                  if(type == "error") {
+//                      cbc.error(message);
+//                      return;
+//                  }
+
+                    JSONObject data = new JSONObject();
+                    try {
+                        data.put("type", new String(type));
+                        data.put("data", new String(message));
+                    } catch(JSONException e) {
+
+                    }
+
+                    PluginResult result = new PluginResult(PluginResult.Status.OK, data);
+                    result.setKeepCallback(true);
+                    cbc.sendPluginResult(result);
+                }
+            };
+
+            mConnection = new ChatConnection(mHandler);
+
+        } catch(Exception e) {
+            callbackContext.error("Error " + e);
+        }
+    }
+
+    public void connectChat(CallbackContext callbackContext) {
+        final CallbackContext cbc = callbackContext;
+        if (mService != null) {
+            mConnection.connectToServer(mService.getServer(), mService.getPort());
+        } else {
+            cbc.error("No service to connect to!");
+        }
+    }
+
+    public static String sendChatMessage(String messageString, CallbackContext callbackContext) {        
+        mConnection.connectToServer(mService.getServer(), mService.getPort());
+         mConnection.sendMessage(messageString);
     }
 
 }
